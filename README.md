@@ -1,9 +1,3 @@
----
-title: Field Matters 2027 – Shared Task
-description: Field Matters 2027 Shared Task on Automatic Interlinear Glossing.
-image: https://field-matters.github.io/logo.jpg
----
-  
 # Field Matters 2027 Shared Task on Automatic Interlinear Glossing
 
 ## Important links
@@ -154,8 +148,18 @@ To acknowledge the SIGMORPHON 2023 Shared Task, please cite the following articl
 - The Glossed Audio Corpus of Ainu Folklore corpus.  
 Hiroshi Nakagawa; Anna Bugaeva; Miki Kobayashi and Yoshimi Yoshikawa (2016-2024) [A Glossed Audio Corpus of Ainu Folklore](https://ainu.ninjal.ac.jp/folklore/). NINJAL. 
 
-#### New datasets (phase 2)
-- TBA
+#### New datasets: Amis and Tsuo (phase 2)
+- TBA to avoid any overlap during the test phase
+
+#### New datasets: Even (phase 2)
+- TBA to avoid any overlap during the test phase
+
+#### New datasets: Japhug (phase 2)
+- TBA to avoid any overlap during the test phase
+
+#### New datasets: Mukri Kurdish (phase 2)
+- TBA to avoid any overlap during the test phase
+
 
 ### Potential training corpora
 Here are the two versions of the multilingual glossed corpora, which can be used for training and which also contain some evaluation languages.

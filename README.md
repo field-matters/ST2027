@@ -2,19 +2,19 @@
 
 ## Important links
 - [Announcements and general contact (Google group)](https://groups.google.com/g/fm-shared-task-glossing-2027)
-- Registration (Google form) (TBA)
+- [Registration (Google form)](https://forms.gle/v8wYmSyyLHptSfov9)
 - CodaBench competition (TBA)
 
-## Important dates
+## Important dates (DD/MM/YYYY)
 - Shared Task details finalised: 26/10/2026
 - Phase 1: Beginning of the development phase: 26/10/2026
 - Phase 2: Information about the new languages: 03/11/2026
-- Phase 3: Test set release (beginning of the test phase): mid/end of November
-- Output submission deadline: end of November/beginning of December
-- System description deadline: December 15, 2026
-- Notification of acceptance: January 11, 2027
-- Camera-ready deadline: January 22, 2027
-- Workshop dates: March 9-14, 2027
+- Phase 3: Test set release (beginning of the test phase): 16/11/2026
+- Output submission deadline: 08/12/2026
+- System description deadline: 15/12/2026
+- Notification of acceptance: 11/01/2027
+- Camera-ready deadline: 22/01/2027
+- Workshop dates: 09-14/03/2027
 
 **All deadlines are 23:59 UTC-12 ('Anywhere on Earth').**
 
@@ -133,9 +133,33 @@ The evaluation relies on the [`glossing` package](https://github.com/michaelpgin
 
 We will average each language's evaluation metric scores per language set.
 
-## Submission
-TBA
+## Output submission
+Submission format and method TBA very soon.
 
+Several submissions can be made, but only **one main submission** (to be decided by the participants before the result announcement) will be considered. The main submission is to be specified **per track**; it can a different system *per track* (but *not inside a track*).
+
+The deadline for the submission is: **08/12/2026** (AoE).
+
+## System description
+Participation in the Shared Task is valid **only** when a system description article is written about the output submission. We acknowledge that the timeline for the Shared Task is quite tight: we therefore recommend that each participant start writing it as soon as possible.  
+Please let us know if you require any deadline extension or any support regarding the writing (e.g., mentorship).  
+
+System descriptions mostly follow the general policy as for our workshop submissions (i.e., the standard \*ACL submissions). Articles should use the same \*ACL template. However, there are two differences:
+- Page length: system description articles should have a maximum of **6 pages** (excluding Limitations, Ethical considerations, References, and Appendices) for the submission (there will be an extra page for the camera-ready version)
+- Anonymity: the submissions should not be anonymised. It should be clear to the reviewer which submission is described (e.g., a title with the team name).
+
+The system description should be clear about the following points:
+- the participation track(s)
+- the dataset(s) that were used for training and development (including example selection, if there is retrieval)
+- the licence of any *external* datasets
+- the model(s) which were used
+- the overall methodology of the system
+- the systems leading to the submitted outputs for the shared task, with an emphasis on **one main submission**.
+
+System descriptions for the Shared Task should also be submitted on the main OpenReview submission platform (cf. workshop guidelines). Accepted system descriptions will also be in the workshop proceedings.  
+The deadline for the system description article is: **15/12/2026** (AoE).
+
+The citation for our Findings article regarding the Shared Task will be given soon.
 
 
 ## Citations

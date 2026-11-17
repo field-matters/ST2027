@@ -9,7 +9,7 @@
 - Shared Task details finalised: 26/10/2026
 - Phase 1: Beginning of the development phase: 26/10/2026
 - Phase 2: Information about the new languages: 03/11/2026
-- Phase 3: Test set release (beginning of the test phase): 16/11/2026
+- Phase 3: Test set release (beginning of the test phase): 17/11/2026
 - Output submission deadline: 08/12/2026
 - System description deadline: 15/12/2026
 - Notification of acceptance: 11/01/2027
@@ -60,7 +60,7 @@ The task is to predict interlinear glosses, which are morpheme-level linguistic 
 Ultimately, such glossing systems aim to help field linguists with the annotation task for languages under documentation, as it is mainly performed manually with little automation. 
 
 This Shared Task follows the [SIGMORPHON 2023 Shared Task on Interlinear Glossing](https://github.com/sigmorphon/2023GlossingST).  
-In our Shared Task, the input is mainly the **unsegmented source sentence** (first row). Some instances will be accompanied by its translation in a high-resource language (usually, in English; fourth row).
+In our Shared Task, the input is mainly the **unsegmented source sentence** (first row). Some instances will be accompanied by their translation in a high-resource language (usually, in English; fourth row).
 The goal is to predict the **glossed sentence** (third row).
 
 ## Timeline
@@ -97,13 +97,13 @@ More details on the allowed datasets are below.
   - `new_set` (from phase 2; new languages). 
 
 Participation can be in only one of the two sets, or in both. However, in any case, a submission should contain predictions for all languages of a set (5 languages for `existing_set` and 5 languages for `new_set`).  
-Since the test sets of the `existing_set` is available online, we kindly ask participants **not** to use them for training.
+Since the test sets of the `existing_set` are available online, we kindly ask participants **not** to use them for training.
 
 In case of doubt about a rule, please feel free to check with us.
 
-## Dataset
+## Datasets
 
-All dev datasets (and later test datasets) can be found in the [`data`](data/) folder.
+All dev datasets and test datasets can be found in the [`data`](data/) folder.
 See below for the training dataset.
 
 In phase 1, the datasets to consider will be the training and dev sets. Although the test sets for this set of languages are publicly available, they should **NOT** be used to *train* the system.  
@@ -111,8 +111,6 @@ The goal of this set is to have a common ground between submitted systems and pr
 
 In phase 2, we will mainly release new **test** datasets due to licensing restrictions.  
 To help calibrate the models, we provide at least **two fully segmented and glossed sentences** in the `data` folder.
-
-
 
 #### Training data restrictions
 Regarding training data for glossing, we restrict the glossing data to those released in the GitHub repository for phase 2 + the publicly accessible multilingual IGT datasets GlossLM and PolyGloss:
@@ -122,6 +120,13 @@ Regarding training data for glossing, we restrict the glossing data to those rel
 If you wish to use other *glossed* corpora, please let us know beforehand to check for dataset overlap.  
 Regarding **non-glossed** data (e.g., unlabelled data, sentences with another type of label, dictionaries, grammar books (without overlapping examples)), any **publicly** available dataset is allowed.  
 
+## \[NEW\] Test data for phase 3 
+
+We release the test datasets for both tracks: `existing_set` (phase 1) and `new_set` (phase 2) in the corresponding [`data/phase_3`](data/phase_3) folder. Each track has one CSV file for all five languages.
+
+The CSV structure is the same as in the development phase, but the `segmentation` and the `glosses` columns are empty.
+
+We provide dataset statistics in the `data` folder.
 
 ## Evaluation
 
@@ -134,9 +139,16 @@ The evaluation relies on the [`glossing` package](https://github.com/michaelpgin
 We will average each language's evaluation metric scores per language set.
 
 ## Output submission
-Submission format and method TBA very soon.
+Submission method details TBA very soon.
 
-Several submissions can be made, but only **one main submission** (to be decided by the participants before the result announcement) will be considered. The main submission is to be specified **per track**; it can a different system *per track* (but *not inside a track*).
+### Submission format
+The output file should be a filled version of the test CSV per track.  
+The `glosses` column should be filled with the system prediction. Additionally, the `segmentation` column can also be provided (for the complementary evaluation).
+The structure of the file (row and column order) should be kept.
+
+
+### Submission method
+Several submissions can be made, but only **one main submission** (to be decided by the participants before the result announcement) will be considered. The main submission is to be specified **per track**; it can be a different system *per track* (but *not inside a track*).
 
 The deadline for the submission is: **08/12/2026** (AoE).
 

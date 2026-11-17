@@ -68,5 +68,25 @@ We note that:
 - Even and Mukri Kurdish only feature *two* fully analysed sentences.
 - Japhug has a training and development set, which may largely overlap with existing datasets.
 
+## Phase 3 (test set)
+All ten languages of both tracks have test sets in the [`phase_3`](phase_3/) folder.  
+Below, we report the number of sentences per language.
+
+We recall the following points:
+- The test sets for the `existing_set` are available online; please do **not** use them for training (or copying results).
+- The two dev sentences for Even and Mukri Kurdish come from the same corpus as the released test set.
+- The Japhug test set is one corpus. 
+- The Amis and Tsou test sets are a concatenation of several stories.
+
+| Existing set | | New set | |
+|---|--:|---|--:|
+| **Language** | **Sentences** | **Language** | **Sentences** |
+| Gitxsan | 37 | Amis | 174 |
+| Hokkaido Ainu | 588 | Even | 102 |
+| Lezgian | 53 | Japhug | 271 |
+| Natügu | 99 | Mukri Kurdish | 40 |
+| Nyangbo | 248 | Tsou | 194 |
+| **Total** | **1,025** | **Total** | **781** |
+
 ## Citations
 All dataset citations are in the main README file.

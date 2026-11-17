@@ -1,0 +1,782 @@
+id,source,transcription,segmentation,glosses,translation,glottocode,language,metalang_glottocode,metalanguage
+amis_sent_test_000,amis_test_data,"ira ku ccay, a wawa. misi'ayaw cingra tu,_ mialaan nira, takula'. paruhan nira itini i,_ ccay a talid,_",,,"There was a child facing the frog he caught, putting (it) in a bottle",amis1246,Amis,stan1293,English
+amis_sent_test_001,amis_test_data,"ira ku wacu,_ a mi, si'ayaw cangra tura, takula'. itini i kafuti' nu nira,_",,,There was a dog and they faced the frog. It slept here.,amis1246,Amis,stan1293,English
+amis_sent_test_002,amis_test_data,"itini i, laluma' nu talid kuya, takula'._ nikawrira,_ masadak a milaliw, kuya takula',_ tuni kafuti', nunian a wawa.",,,But the frog inside the bottle went out and left when the child was sleeping.,amis1246,Amis,stan1293,English
+amis_sent_test_003,amis_test_data,milaliwitu kuya takula'.,,,The frog left.,amis1246,Amis,stan1293,English
+amis_sent_test_004,amis_test_data,"mararumtu ku, falucu' nunian a wawa.",,,The child was sad.,amis1246,Amis,stan1293,English
+amis_sent_test_005,amis_test_data,"icuwaitu hakini, kuya takula' aku, sa'an kura,_ wawa a mikilim.",,,'Where is my frog?' The child looked for (the frog).,amis1246,Amis,stan1293,English
+amis_sent_test_006,amis_test_data,"ira ku ccay a wacu. mapulintu nira kuya, talid, tuya patelian, tuya takula,_ nuya wawa, saka._",,,"Because there was a dog, and therefore the bottle where the child put the frog toppled.",amis1246,Amis,stan1293,English
+amis_sent_test_007,amis_test_data,"ma'an satu kuya takula' aku,",,,'What happened to my frog?',amis1246,Amis,stan1293,English
+amis_sent_test_008,amis_test_data,"sa'an cingra a, mikilim, ..a miceli', u takula' aku icuwatu, sa'an cingra.",,,He searched and called. 'Where is my frog?',amis1246,Amis,stan1293,English
+amis_sent_test_009,amis_test_data,"nengnenghanen,_ mumukhantu nuya wacu, ku, kuya patelian nira, tiya takula', a talid.",,,The dog got into the bottle where he put the frog.,amis1246,Amis,stan1293,English
+amis_sent_test_010,amis_test_data,"mima'an han isu ku, patelian aku tu takula', ...wa hananay nuna wawa, kuna wacu.",,,'Why did you play with the bottle where I put the frog?' The child scolded the dog.,amis1246,Amis,stan1293,English
+amis_sent_test_011,amis_test_data,"saka, talacuwatu kuya, takula' aku sa'an cingra a miceli', a mikilim.",,,'Where is my frog?' He called and searched.,amis1246,Amis,stan1293,English
+amis_sent_test_012,amis_test_data,"tayra cingra i, kilakilangan,_ mikilim tunian a,_ 'pung.",,,He went to the forest and searched the hole.,amis1246,Amis,stan1293,English
+amis_sent_test_013,amis_test_data,"icuwatu kuya takula' aku hakini,",,,'Where is my frog?',amis1246,Amis,stan1293,English
+amis_sent_test_014,amis_test_data,"itini i hakini tuna 'pung, sa'an ku falucu' nira a miceli',",,,'Is it inside this hole?' he said so and called.,amis1246,Amis,stan1293,English
+amis_sent_test_015,amis_test_data,"takula' aku, icuwatu, sa'an cingra miceli',",,,'Where is my frog?' He said so and called.,amis1246,Amis,stan1293,English
+amis_sent_test_016,amis_test_data,"ta, tayni satu itini,_",,,Then he came here.,amis1246,Amis,stan1293,English
+amis_sent_test_017,amis_test_data,"mararum ku falucu' nira,_",,,He was sad.,amis1246,Amis,stan1293,English
+amis_sent_test_018,amis_test_data,"ira ku ccay a 'pung, itini i suta'.",,,There was a hole here on the ground.,amis1246,Amis,stan1293,English
+amis_sent_test_019,amis_test_data,"kilimen nira itira, awaayitu.",,,"He searched there, only to find nothing.",amis1246,Amis,stan1293,English
+amis_sent_test_020,amis_test_data,"na wacu sa'an sa cekucekud, sa'an cingra a mi,_ mi, anin tunian a, matatingay, i fafa'ed a,_ a ma'an kura'an.",,,"The dog was jumping, playing with something hung above.",amis1246,Amis,stan1293,English
+amis_sent_test_021,amis_test_data,"saka, m, miceli' haca cingra u takula' aku,",,,"He was still calling, 'My frog!'",amis1246,Amis,stan1293,English
+amis_sent_test_022,amis_test_data,"takula' aku, sa'an cingra a,_",,,'My frog!' he said so.,amis1246,Amis,stan1293,English
+amis_sent_test_023,amis_test_data,"ca'ayay pitulas a, mikilim, tuya takula' nira, saka,_",,,He kept looking for his frog.,amis1246,Amis,stan1293,English
+amis_sent_test_024,amis_test_data,"tahira itini,_ itini tu i kilakilangan, cingra a mikilim, tuya takula'.",,,"At this point, he went to the forest to look for the frog.",amis1246,Amis,stan1293,English
+amis_sent_test_025,amis_test_data,"talacuwatu kuya takula' aku hakini, sa'an ku falucu' nira saka,_",,,'Where is my frog?' he said so.,amis1246,Amis,stan1293,English
+amis_sent_test_026,amis_test_data,mikilim cingra.,,,He searched.,amis1246,Amis,stan1293,English
+amis_sent_test_027,amis_test_data,"mapulin cingra tu pikiliman, aca nira makunkun, itini i, kilakilangan.",,,"He fell when he was searching, falling down from the tree.",amis1246,Amis,stan1293,English
+amis_sent_test_028,amis_test_data,"wakang satu itini i, suta' kuna wawa.",,,The child lay on the ground.,amis1246,Amis,stan1293,English
+amis_sent_test_029,amis_test_data,"tayra ku ccay a,_ a, 'anekak. mi,_ sapi, siwpaw itini i cingranan.",,,"Here came an eagle, which wanted to dive towards him.",amis1246,Amis,stan1293,English
+amis_sent_test_030,amis_test_data,matalaw cingra.,,,He was afraid.,amis1246,Amis,stan1293,English
+amis_sent_test_031,amis_test_data,"ta, tayni satu cingra i, fafa'ed nu ongcuy,_ a miceli'.",,,He went up onto the rock and called.,amis1246,Amis,stan1293,English
+amis_sent_test_032,amis_test_data,"u takula' aku, icuwaitu hakini, sa'an cingra a mikilim.",,,"'My frog, where are you?' he said so, searching.",amis1246,Amis,stan1293,English
+amis_sent_test_033,amis_test_data,"ta tahira itini, maaraw nira ku ccay a, malunem.",,,He saw a deer there.,amis1246,Amis,stan1293,English
+amis_sent_test_034,amis_test_data,"c<um>ikay a,_ mikilim cingra. ta,_ matalaw ku, falucu' nira tuni ka, ira nuna ma, malunem.",,,"He ran and searched, afraid of this deer.",amis1246,Amis,stan1293,English
+amis_sent_test_035,amis_test_data,"alul satu cingra a mapulin, itini i,_ i nanum.",,,He fell into the water. He was drowning.,amis1246,Amis,stan1293,English
+amis_sent_test_036,amis_test_data,"saka,_ tahiratu itini cingra,_ ma, alulitu cingra i nanum,_",,,He was drowning in the water.,amis1246,Amis,stan1293,English
+amis_sent_test_037,amis_test_data,"nikawrira,_ ma<L2MciwL2M> nura,_ wacu cingra,_ saka._",,,But the dog rescued him.,amis1246,Amis,stan1293,English
+amis_sent_test_038,amis_test_data,"itini, satu cingra a,_ toronghantu nira kura wacu, i fungoh nu nira itini i, nanunanuman.",,,"Here, he carried the dog on his head in the water.",amis1246,Amis,stan1293,English
+amis_sent_test_039,amis_test_data,"saka,_ tahira cingra itini,_ mikilim ho cingra tuya,",,,"At this point, he was still searching.",amis1246,Amis,stan1293,English
+amis_sent_test_040,amis_test_data,"ca'ay kahemhem ku falucu', nira tu saka,_ tamaaw tuya, takula'.",,,He didn't give up. He wanted to find the frog.,amis1246,Amis,stan1293,English
+amis_sent_test_041,amis_test_data,"saka,_ mikilimay ho cingra tuya, takula' han nira.",,,He was still looking for his frog.,amis1246,Amis,stan1293,English
+amis_sent_test_042,amis_test_data,"tahira itini,_ maarawtu nira itini i,_ fafaed nu ongcuy ku,_ kuya takula, atura wacu nira.",,,"At this point, he saw the frog and his dog on the rock.",amis1246,Amis,stan1293,English
+amis_sent_test_043,amis_test_data,"ta, lipahak satu falucu' nira pakaaraw tu,_ na takula', itini i fafaed, nu fukeloh.",,,He was glad to see the frog on the rock.,amis1246,Amis,stan1293,English
+amis_sent_test_044,amis_test_data,"aluman kura takula', itini i la'enu.",,,There were many frogs below.,amis1246,Amis,stan1293,English
+amis_sent_test_045,amis_test_data,"icuwaay kunu nu makuay, hakiya sa'an cingra nika._",,,"'Which one is mine,' said he.",amis1246,Amis,stan1293,English
+amis_sent_test_046,amis_test_data,"ira ku ccay, tu nu niraay a,_ a takula'.",,,One of them was his frog.,amis1246,Amis,stan1293,English
+amis_sent_test_047,amis_test_data,"saka, malepettu nira ku ccay a, takula' initu kiya nu makuay, a takula'. sa'an ku falucu' nira.",,,"He thus grabbed one frog. 'This is my frog,' thought he.",amis1246,Amis,stan1293,English
+amis_sent_test_048,amis_test_data,"malipahaktu ku, falucu' a nira a pakaaraw tu, ya takula'.",,,He was glad to see the frog.,amis1246,Amis,stan1293,English
+amis_sent_test_049,amis_test_data,"ira ku, c'cay a, malingaday.",,,There was a farmer (worker).,amis1246,Amis,stan1293,English
+amis_sent_test_050,amis_test_data,"mikalic tu kilang, a mipitpit tu, <L2MsuiguoL2M>,",,,(He) climbed up a tree to pick fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_051,amis_test_data,"uya <L2MsuiguoL2M> u, kiyafes kura pitpitan, nira.",,,The fruit that he plucked is guava.,amis1246,Amis,stan1293,English
+amis_sent_test_052,amis_test_data,"a telihan nira itini i, kaayaw nira a, miapid ku, mipitpitan nira a, <L2MsuiguoL2M>.",,,He put the fruits he plucked into a bag in front of him.,amis1246,Amis,stan1293,English
+amis_sent_test_053,amis_test_data,"ta maepud cingra, mifun cingra, a pateli itini i, kanicaw.",,,"Then he went down. He unpacked the fruits, and put them into a basket.",amis1246,Amis,stan1293,English
+amis_sent_test_054,amis_test_data,"ta, mafun nira itini, kanicaw kuya, mipipitpitan nira a, kyafes.",,,"Then, he put the guavas that he plucked into the basket.",amis1246,Amis,stan1293,English
+amis_sent_test_055,amis_test_data,"miliyaw haca, cingra a, mikalic, a mipitpit, a mi, tuya, <L2MsuiguoL2M>,",,,He climbed up again to pluck fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_056,amis_test_data,"ta telien nira itini i, kaayaw nu nira.",,,He put them in the front.,amis1246,Amis,stan1293,English
+amis_sent_test_057,amis_test_data,"nikawrila ira ku, c'cay a mi, mipaka'enay tu, siri, a mitafsiw, tu, pipitpit nunian a, c'cay a tamdaw.",,,"However, there was a shepherd who passed the person who was plucking fruits.",amis1246,Amis,stan1293,English
+amis_sent_test_058,amis_test_data,"tuya pipitpit, nu nira,",,,He was plucking fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_059,amis_test_data,"ira ku c'cay, a wawa, tu, pakakurisiway,",,,There was a child who was riding a bicycle.,amis1246,Amis,stan1293,English
+amis_sent_test_060,amis_test_data,"manengneng nira kuya, mipitpitan, nunian a, malingaday a, tamdaw.",,,"He saw the worker, who was plucking (fruits).",amis1246,Amis,stan1293,English
+amis_sent_test_061,amis_test_data,"maala nira ku c'cay a, a <L2TlangaL2T>,",,,He took one basket.,amis1246,Amis,stan1293,English
+amis_sent_test_062,amis_test_data,"ta pakalicen nira itini i, kurisiw nira.",,,Then he put it onto the bicycle.,amis1246,Amis,stan1293,English
+amis_sent_test_063,amis_test_data,milaliw cingra.,,,He left.,amis1246,Amis,stan1293,English
+amis_sent_test_064,amis_test_data,"matakaw nira kiya c'cay a, <L2TlangaL2T> nu, ya, <L2MsuiguoL2M> nira a kyafes.",,,"He stole a basket of fruits, that is, guavas.",amis1246,Amis,stan1293,English
+amis_sent_test_065,amis_test_data,"ta pakakurisiw, kuya wawa. mastul nira ku, c'cay a fukeloh, mapulin,",,,"That child, riding a bicycle, tripped over a stone and fell.",amis1246,Amis,stan1293,English
+amis_sent_test_066,amis_test_data,"laklak satu kuya, <L2MsuiguoL2M> nira itira i lalan.",,,His fruits were scattered over the road.,amis1246,Amis,stan1293,English
+amis_sent_test_067,amis_test_data,"ta padangen nu, tatuluay a, wawa, cingra a miparu, tuya, <L2TlangaL2T>,",,,Three children helped that child load the basket.,amis1246,Amis,stan1293,English
+amis_sent_test_068,amis_test_data,"ta, matumus, nira kuya <L2TlangaL2T>,",,,He loaded the basket.,amis1246,Amis,stan1293,English
+amis_sent_test_069,amis_test_data,"a mi, paru, a mipadang a mipudpud,",,,(They) helped pick up (the guavas).,amis1246,Amis,stan1293,English
+amis_sent_test_070,amis_test_data,"milaliwtu kuya wawa,",,,The child left.,amis1246,Amis,stan1293,English
+amis_sent_test_071,amis_test_data,"nikawlira tahira i fatad, kuya wawa, ^tiuhan niya c, widang nira,",,,"However, halfway, his friends whistled.",amis1246,Amis,stan1293,English
+amis_sent_test_072,amis_test_data,matawad nira ku kafung.,,,He forgot the hat.,amis1246,Amis,stan1293,English
+amis_sent_test_073,amis_test_data,"ta, pafulien haca nuya, widang nira tiya tatuluay, a wawa, kuya kafung, tuya, mitakaway tu <L2MsuiguoL2M>, a wawa,",,,"His friends, those three children, returned the hat to the child, who stole the fruits.",amis1246,Amis,stan1293,English
+amis_sent_test_074,amis_test_data,"ta, m manga'ay ku falucu' nira,",,,He was kind.,amis1246,Amis,stan1293,English
+amis_sent_test_075,amis_test_data,"pafelien nira kuya wawa tu, alac'cay tuya, <L2MsuiguoL2M>.",,,He gave each person a fruit.,amis1246,Amis,stan1293,English
+amis_sent_test_076,amis_test_data,"ta, milaliwtu kuya, tatuluay, tiya mipadangay, tuya mitakaway, tuya <L2MsuiguoL2M>, a pakakurisiway, a wawa.",,,"Then, they left the child who rode a bicycle and stole the fruits.",amis1246,Amis,stan1293,English
+amis_sent_test_077,amis_test_data,"ta tahira kuya, tatuluay a wawa, tuya, mipitpitay tu, <L2MsuiguoL2M> a, matu'asay a, fayinayan.",,,Those three children came to where the elder was plucking fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_078,amis_test_data,"manengneng nira kuya, tataluay a wawa tu, nikak<um>a'en nu, ya wawa,",,,"He saw the three children, who were eating (fruits).",amis1246,Amis,stan1293,English
+amis_sent_test_079,amis_test_data,"maepudtu cingra, tu sakinatusa, nira a mipitpit. m,/ anu awa kunian a c'cay, a <L2TlangaL2T> aku a <L2MsuiguoL2M>.",,,"He plucked fruits the second time and went down, ""How come one basket of fruits is gone?""",amis1246,Amis,stan1293,English
+amis_sent_test_080,amis_test_data,"sa'an kuya, kuya mi, mipitpitay tuya <L2MsuiguoL2M> a tamdaw, manengneng nira kuya, tatuluay, a wawa.",,,The person who plucked fruits saw those three children.,amis1246,Amis,stan1293,English
+amis_sent_test_081,amis_test_data,"ta, mitakaway kuninian, wasanaytu ku falucu', nira saka, nengnenghan nira kuya wawa.",,,"Seeing those children, he believed that they were the thieves.",amis1246,Amis,stan1293,English
+amis_sent_test_082,amis_test_data,"su'elin kita u, ma u malingaday.",,,We farmers are really hard-working.,amis1246,Amis,stan1293,English
+amis_sent_test_083,amis_test_data,ira ku ccay a tamdaw. malingad tayni i lutuk.,,,There was a person who went to the mountain.,amis1246,Amis,stan1293,English
+amis_sent_test_084,amis_test_data,"su'elin mio'ok, sa ku 'ayam. manengneng nira hay, uya tayal aku sa'an,_ l<um>uwadtu cingra a, tayni i umah nira.",,,"When chickens crowed, he thought ""ah, my work,"" and he got up and went to his farm.",amis1246,Amis,stan1293,English
+amis_sent_test_085,amis_test_data,"naw han,_ adihay ku nipaluma'an nira a, kiyafes itini i,_ lutuk nira saka, u lal<um>uwadtu cingra a tayra, a miala, tunini a kiyafes nira._",,,"He grew many guavas in the mountain, so he got up and went to pluck guavas.",amis1246,Amis,stan1293,English
+amis_sent_test_086,amis_test_data,"su'elin tahirahan nira ccay aca, tapangan kuya,_ nipaluma'an nira, su'elin a malufic ku haci nira. itira ku raheker nu falucu' nira,_",,,"When he arrived, (he saw) only one tree (what he planted) was fruitful, and he felt satisfied.",amis1246,Amis,stan1293,English
+amis_sent_test_087,amis_test_data,"mialatu cingra a, pakayakay a miala tu, kiyafes nira.",,,He took a ladder to pluck guavas.,amis1246,Amis,stan1293,English
+amis_sent_test_088,amis_test_data,"nengnenghan nira tusatu a kiyafes a,_ langa ku, kiyafes nira tu ni, alaan nira tu haci nuya kiyafes nira.",,,He saw that two baskets were filled with the guavas that he plucked.,amis1246,Amis,stan1293,English
+amis_sent_test_089,amis_test_data,"kiya ira ku ccay,_ mikitingay tu siri, a tamdaw, pakayra a mitafsiw.",,,"Then, a person who pulled a goat along passed.",amis1246,Amis,stan1293,English
+amis_sent_test_090,amis_test_data,"nikawrira ca'ay ka'anuf kuya, pa'acaay tu siri,",,,But the person who sold goats was not greedy.,amis1246,Amis,stan1293,English
+amis_sent_test_091,amis_test_data,"manengneng nira watah ku haci nira,_ nuna kiyafes sa'an, a minengneng mitafsiw tiya,_ mikitingay tu, siri.",,,"He saw the fruit, the guavas; the person who pulled the goat along passed and saw (the guavas).",amis1246,Amis,stan1293,English
+amis_sent_test_092,amis_test_data,"caho,_ ira kuya pa, ka,_ kuliciway a wawa.",,,"Before long, there was a child that rode a bike.",amis1246,Amis,stan1293,English
+amis_sent_test_093,amis_test_data,"unini a wawa, su'elin caho ho katu'as, u wawa ho, kunini a wawa. pakayra a mitafsiw,_",,,"Really, the child has not grown up; he passed there.",amis1246,Amis,stan1293,English
+amis_sent_test_094,amis_test_data,"minengneng tu ni,_ alaan nuya, malingaday a, tamdaw. nengnenghan nira tusa, a langa watah, ku haci, nunini,_ a,_ kiyafes sa'an,",,,He looked at what the farmer plucked and saw two baskets were full of guavas.,amis1246,Amis,stan1293,English
+amis_sent_test_095,amis_test_data,"alahan nira ku, ccay a langa. paruhan nira i kuliciw nira,_ na nuya, mikuliciw cingra,_",,,"He took one basket and put it on his bike, and then he rode his bike away.",amis1246,Amis,stan1293,English
+amis_sent_test_096,amis_test_data,"su'elin ma'anuf, ku falucu' nira.",,,He was really greedy.,amis1246,Amis,stan1293,English
+amis_sent_test_097,amis_test_data,"ta alahan nira a panukay,_ uya a wawa su'elin matalaw, ku falucu' nira. malalitemuh tu tamdaw, su'elin matalaw.",,,"The child took (the basket) home, and was really afraid; he met other people and was really afraid.",amis1246,Amis,stan1293,English
+amis_sent_test_098,amis_test_data,"mapulintu ku, pikuliciw nira, masasungtul tunini u fikeloh. naw han u talaw nira kuraran,_ nitakawan nira,",,,The bike hit a rock so he fell; this was because he was afraid.,amis1246,Amis,stan1293,English
+amis_sent_test_099,amis_test_data,"tu nialaan nu,_ malingaday kuranan a,_ mikiyafes saka. itira ku talaw nira,",,,"He took the farmer's guavas, so he was afraid.",amis1246,Amis,stan1293,English
+amis_sent_test_100,amis_test_data,"nikawrira ira kiya, tatuluay a, tamdaw. maaraw nira, mapulin kura wawa,_",,,"But there were three people, they saw the child fall down.",amis1246,Amis,stan1293,English
+amis_sent_test_101,amis_test_data,"mipadang a mi, pudpud tuyanan a,_ kiyafes a miparu, tuya kanicaw nira,_",,,They helped him pick up the guavas and put them in his basket.,amis1246,Amis,stan1293,English
+amis_sent_test_102,amis_test_data,"maharek a miparu pat,_ pataduen nira a, pakalic itini i, kuliciw nira.",,,"After putting the guavas in the basket, he helped him put the basket on his bike.",amis1246,Amis,stan1293,English
+amis_sent_test_103,amis_test_data,"iyantu i,_ masa, paytemektu tu rakat, cangra. tahira i fatad nengnenghan nira ira, ku kafung nuya wawa tiya,_ kakunkunan nira, patiku, pafeliho tuya wawa, tuya kafung.",,,"Then they walked away separately, and halfway, he saw the child's hat at where the child fell. He went back to gave the hat to the child.",amis1246,Amis,stan1293,English
+amis_sent_test_104,amis_test_data,"nuya malawacuay, mialaay, tuya kiyafes.",,,(To) the person who was greedy and took the guavas.,amis1246,Amis,stan1293,English
+amis_sent_test_105,amis_test_data,"su'elin ku, falucu' niya tatuluay,_ u fangcalay ku falucu' nira,_",,,Those three people were really kind.,amis1246,Amis,stan1293,English
+amis_sent_test_106,amis_test_data,"nikawrira pakayra, tiya pi,_ alaan niya malingaday, mitafsiw tuya, wawa tatuluay. manengneng nira kuya tayal, niya mama, nengnenghan nira,_ cay wata', adihay sa'an, tafsiw sa.",,,"The three people passed where the farmer plucked fruit and saw the old man's work. They saw and said 'Wow, so many!' and then went past.",amis1246,Amis,stan1293,English
+amis_sent_test_107,amis_test_data,"uya satu ya malingaday, nengnenghan nira. ma'pudtu cingra,",,,The farmer looked (down) and went down.,amis1246,Amis,stan1293,English
+amis_sent_test_108,amis_test_data,"miala, i fafa'ed,_ ca'aytu kafana', tu kaala nu ta'o tuya,_ ccay a langa.",,,He was plucking (guavas) above; he didn't know that one basket had been stolen.,amis1246,Amis,stan1293,English
+amis_sent_test_109,amis_test_data,"saka matira ma'pud, satu cingra, nengenghan nira,_ awa'aytu ku ccay, a langa, mararomtu kuya,_ malingaday a tamdaw,",,,"So he went down, and saw one basket was gone. The farmer was sad.",amis1246,Amis,stan1293,English
+amis_sent_test_110,amis_test_data,"icuwatu kuya ccay, a langa aku,_",,,'Where is one of my baskets?',amis1246,Amis,stan1293,English
+amis_sent_test_111,amis_test_data,"tusa a langa kiya, patelian aku,_",,,'I put two baskets (here).',amis1246,Amis,stan1293,English
+amis_sent_test_112,amis_test_data,"nu ccayitu ku matumusay, sa'an._",,,'How come only one basket was full?',amis1246,Amis,stan1293,English
+amis_sent_test_113,amis_test_data,"itira ku rarom, satu kiya malingaday a tamdaw.",,,"At that time, the farmer was sad.",amis1246,Amis,stan1293,English
+amis_sent_test_114,amis_test_data,"matira ku, malingaday, mararom, maruray ku falucu'.",,,The farmer was like this: he was sad and industrious.,amis1246,Amis,stan1293,English
+amis_sent_test_115,amis_test_data,"ira kuya ccay a, rumi'ad, masunitu ku ngiha, nu 'ayam, XXX i, ira ku, malingaday, tayratu i umah malingad,",,,"The rooster crowed. One day, there was a farmer who went to the farmland to work.",amis1246,Amis,stan1293,English
+amis_sent_test_116,amis_test_data,"nika, u, tayal nira i, u mipitpitay tu heci nu, kilang.",,,His work was pick fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_117,amis_test_data,"'adihay ku heci nu, kilang nira,",,,His fruits were plenty.,amis1246,Amis,stan1293,English
+amis_sent_test_118,amis_test_data,"mipatala cira tu tulu a, fakar, sapipatala, nira tu heci, nu kilang. saka, tayra cira i umah, nira a mipitpit.",,,"He prepared three baskets for holding the fruits, so he went to the farmland to pick (fruits).",amis1246,Amis,stan1293,English
+amis_sent_test_119,amis_test_data,"pitpit sa cira tu kilang a mikalic, tu kawal tayra i kilang i,",,,He climbed up the ladder to pick fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_120,amis_test_data,"teli nira itini i, ka'ayaw nu, patalaan nira tu,_ pitelian tu heci nu kilang,",,,He put (the fruits) in (the bag) that he had prepared to hold the fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_121,amis_test_data,"u ruray nira, mipitpit maharateng aku ku,_ u ruray, nu malingaday nu mita, matiya u malingaday itini i, niyaro' nu mita.",,,"His toil of picking fruits is reminiscent of our toil as farmers, like the farmers in our village.",amis1246,Amis,stan1293,English
+amis_sent_test_122,amis_test_data,"huni maherektu cingra mipitpit i, patayraentu nira i fakar, nira.",,,"Before long, (after) he finished picking the fruits, he put them in his basket.",amis1246,Amis,stan1293,English
+amis_sent_test_123,amis_test_data,"paruhan nira i, nengnenghan ca'ay katumes ku tulu a fakar. tusa ku matumel, matumesay,",,,"He put them (in the baskets), but the three baskets didn't seem to be full. (Only) two were full.",amis1246,Amis,stan1293,English
+amis_sent_test_124,amis_test_data,"saka, miliyaw ho cingra mikalic i,_ tayra i kilang, nira mipitpit tu heci, nu kilang.",,,So he climbed up the tree again to pick fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_125,amis_test_data,"ya mipitpit, cingra tura, heci nu kilang i,",,,He was picking fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_126,amis_test_data,"ira ku ccay mikitingay, tu siri a, fa'inayan, mita'elif itini i, la'enu nu pipitpitan nira tu kilang,",,,There was a man pulling a goat along; (he) passed the tree where he picked fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_127,amis_test_data,"mipitpit cingra tu kilang i, sanengnengnengneng, sa'an kiya siri tura, heci nu kilang, sakak<um>a'enan,",,,"When he was picking fruits, the goat looked around and wanted to eat the fruits.",amis1246,Amis,stan1293,English
+amis_sent_test_128,amis_test_data,"nika tengteng, tengtenghan nira tayra i,_ mita'eliftu, mita'elif tura, pipitpitan tura kilang, tuya heci itira,",,,The goat passed the tree where (he) picked fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_129,amis_test_data,"ta, afa miha, halafintu i, ira ku ccay, a ka'emangay wawa, mikulisiw, mita'elif tura, pipitpitan nira tura kilang, a heci i,",,,There was a child riding a bike; (the child) passed the tree where he picked fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_130,amis_test_data,"maaraw nuya wawa, kuya heci i,_ sapialaan,",,,The child saw the fruits and wanted to take them.,amis1246,Amis,stan1293,English
+amis_sent_test_131,amis_test_data,"ta telihan nira ku, kulisiw nira i tatihi,",,,He put his bike by the side.,amis1246,Amis,stan1293,English
+amis_sent_test_132,amis_test_data,"nengnenghan nira kuya malingaday i, ca'ay pinengneng cingranan,",,,"He looked at the farmer, (but the farmer) didn't see him.",amis1246,Amis,stan1293,English
+amis_sent_test_133,amis_test_data,"sapitakawan tu ccay. nika sanengnengnengnenghan nira XXX i,",,,(He) wanted to steal one (basket) and looked around.,amis1246,Amis,stan1293,English
+amis_sent_test_134,amis_test_data,"ca'ay pinengneng kiya malinagday,",,,The farmer didn't see him.,amis1246,Amis,stan1293,English
+amis_sent_test_135,amis_test_data,"saka, harateng sa cingra i, kakoyhan aku ku ccay, fakar latek ca'ay, pakaaraw saka,_",,,"So he thought, 'If I take one basket, maybe he won't see it.'",amis1246,Amis,stan1293,English
+amis_sent_test_136,amis_test_data,"alahan nira ku ccay fakar, pakafithan nira itini i, kulisiw nira. ta,_ saharakat satu mita'elif, milaliw.",,,"He took one basket and hung it on his bike, leaving quickly.",amis1246,Amis,stan1293,English
+amis_sent_test_137,amis_test_data,"salipahak sa cingra, a mulaliw i,_",,,He left delightedly.,amis1246,Amis,stan1293,English
+amis_sent_test_138,amis_test_data,"'ayaw maaraw nira ku ccay, a ka'emangay a wawa, u fafahian, makapah, sa'an cingra a minengneng i,",,,He saw a young girl ahead. He saw (her and thought she was) beautiful.,amis1246,Amis,stan1293,English
+amis_sent_test_139,amis_test_data,"sanengnengnengnenghan nira, saikor saikor sa u fongoh nira, minengneng i, puling sa kulisiw, nira itini i, fatad nu lalan,",,,"He looked around and turned round to see, falling from his bike halfway.",amis1246,Amis,stan1293,English
+amis_sent_test_140,amis_test_data,"mapuling cingra i, mataktak, ma'emin kiya heci nu kilang,",,,"After he fell down, all the fruits fell off.",amis1246,Amis,stan1293,English
+amis_sent_test_141,amis_test_data,"s nengnenghan nira ku, wa'ay nira i, malemes sakira,",,,"He looked at his foot, which was bleeding.",amis1246,Amis,stan1293,English
+amis_sent_test_142,amis_test_data,"harateng sa maan, satu kaku sa'an.",,,"He thought, 'What should I do?'",amis1246,Amis,stan1293,English
+amis_sent_test_143,amis_test_data,"ca'ahan nira ku fongoh nira i, ira ku tatuluay a ka'emangay wawa, padanghan nira, tura mipudpud tiya kilang,",,,He looked up. There were three children helping him pick up the fruits.,amis1246,Amis,stan1293,English
+amis_sent_test_144,amis_test_data,"salihaday, sa kiya falucuh niya wawa.",,,The child (who stole the fruits) felt lighthearted.,amis1246,Amis,stan1293,English
+amis_sent_test_145,amis_test_data,"sanengnenghan nira kuya tatuluay, aciyah, kuna tatuluay wawa, mipadang takuwanan, sa'an cingra i.",,,"'Ah, the three children helped me,' he thought.",amis1246,Amis,stan1293,English
+amis_sent_test_146,amis_test_data,"maherek cingra i, mapadang nira kiya tatuluay wawa kiya,_ fakar tara i kafekang, atu ya heci nu kilang,",,,"After he was done, he helped the three children put the basket on (the bike).",amis1246,Amis,stan1293,English
+amis_sent_test_147,amis_test_data,"ta, ma miliyastu cingra,",,,The he left.,amis1246,Amis,stan1293,English
+amis_sent_test_148,amis_test_data,"mita'elif kuya tatuluay wawa i, maaraw nira kiya,_",,,He saw the three children go by.,amis1246,Amis,stan1293,English
+amis_sent_test_149,amis_test_data,"kafong matefad ila'enok i, pudpuden nuya ccay, ka'emangay wawa,",,,"The hat fell onto the ground, and one of the children picked it up.",amis1246,Amis,stan1293,English
+amis_sent_test_150,amis_test_data,"iyofhan nira, ku, ngoyos miiyof, tuya wawa i. saikor a minengneng, patikoen kiya kafong, ka'emangay wawa kuya mikulisiway,",,,"He blew and turned around to see, returning the hat to the rider.",amis1246,Amis,stan1293,English
+amis_sent_test_151,amis_test_data,"harateng, sa mitakaway tu, heci nu kilang a wawa i. aya kafangcal kuna wawa,",,,"The child who stole the fruits thought, 'Ah, the children were so kind.'",amis1246,Amis,stan1293,English
+amis_sent_test_152,amis_test_data,"pafelihan nira tu heci, nu kilang kuya XX tatuluay, alaccay cangra tuya heci nu kilang,",,,"He gave some fruits to the three children, and each had one fruit.",amis1246,Amis,stan1293,English
+amis_sent_test_153,amis_test_data,"ta, miliyastu kuya wawa,",,,"Then, the children left.",amis1246,Amis,stan1293,English
+amis_sent_test_154,amis_test_data,"huni i, ya matu'asay, mi malingaday i. harateng sa matumestu ku, kuna piala aku, mangangaytu maepudtu kaku, sa'an cingra i.",,,"Then, the old person, the farmer thought, ' (the baskets) are full.I could come down,' he thought.",amis1246,Amis,stan1293,English
+amis_sent_test_155,amis_test_data,"nengnenghan nira kiya fakar nira i. tusatu,",,,"He looked at his baskets, only two left.",amis1246,Amis,stan1293,English
+amis_sent_test_156,amis_test_data,"oya matumesay i ccaytu kuya, 'osaw,",,,Only one was full.,amis1246,Amis,stan1293,English
+amis_sent_test_157,amis_test_data,"ma tacuwatu kuna, mi mialaan aku a heci nu kilang haw, sa'an cingra,",,,'Where were the fruits that I picked?',amis1246,Amis,stan1293,English
+amis_sent_test_158,amis_test_data,"sanengnengnengneng sa, mita'elif kiya tatuluay, a widang ya ihoniay, tatuluay a wawa, mita'elif itira ta, la'enu niya kilang i, satongihtongih, sa tu heci nu kilang.",,,"He looked around, (seeing) the three friends/children went by eating fruits.",amis1246,Amis,stan1293,English
+amis_sent_test_159,amis_test_data,"nika, sanengnenghan nira nuya matu'asay, kiya tatuluay wawa i, na tatuluay haw, saharatengharateng, sa cingra,",,,"The old man was looking at the three children, thinking, 'Is it these three people (that stole my fruits)?'",amis1246,Amis,stan1293,English
+amis_sent_test_160,amis_test_data,"ta'elif sa kuya tatuluay a wawa,",,,The three children went by.,amis1246,Amis,stan1293,English
+amis_sent_test_161,amis_test_data,"awatu kuna, hetini aca ku, pakongku aku",,,I'm done with my story.,amis1246,Amis,stan1293,English
+amis_sent_test_162,amis_test_data,"u ngangan aku, ci panay.",,,My name is Panay.,amis1246,Amis,stan1293,English
+amis_sent_test_163,amis_test_data,"u hofuc aku, itini i, ciwkangan.",,,I was born in Ciwkangan.,amis1246,Amis,stan1293,English
+amis_sent_test_164,amis_test_data,"tulu a polo', lima, a miheca'an, tusa, ku safaw nu fulad, tusa polo', ira ku falu, nu romi'ad. tu, kahofucan aku. itini i kakacawan, ku pitilidan aku, enem a miheca',",,,I went to school here in Kakacawan for six years.,amis1246,Amis,stan1293,English
+amis_sent_test_165,amis_test_data,"misawad, itini i, pitilidan.",,,(I) graduated here.,amis1246,Amis,stan1293,English
+amis_sent_test_166,amis_test_data,"mihakerong, tu matuasay, malingad, minanam tu tayal, nu malingaday.",,,I worked with the elders and learned farming.,amis1246,Amis,stan1293,English
+amis_sent_test_167,amis_test_data,"matuastu, cifahinay kaku,",,,I grew up and got married.,amis1246,Amis,stan1293,English
+amis_sent_test_168,amis_test_data,"tatulu, ku wawa aku, sahtu fafahi'an.",,,I have three children; all (of them) are female.,amis1246,Amis,stan1293,English
+amis_sent_test_169,amis_test_data,"maemintu mikatafu,",,,They are all married.,amis1246,Amis,stan1293,English
+amis_sent_test_170,amis_test_data,"lalima, ku <L2TsunaL2T> aku.",,,I have five grandchildren.,amis1246,Amis,stan1293,English
+amis_sent_test_171,amis_test_data,"anini, ku tayal aku, u, milisuay tu, matuasay.",,,"Now, my job is to take care of elders.",amis1246,Amis,stan1293,English
+amis_sent_test_172,amis_test_data,"<L2MjujiakanhuL2M>, ku tayal aku anini.",,,Home care is my present profession.,amis1246,Amis,stan1293,English
+amis_sent_test_173,amis_test_data,"hatiraay ku, maku a, urip. tangasa anini.",,,My life has been like that up to now.,amis1246,Amis,stan1293,English
+even_sent_000,even_data,anton dabdərin mawutlaɟaktu saʃadu,,,Anton lost to Sasha in lasso throwing.,even1260,Even,stan1293,English
+even_sent_001,even_data,erek bej unadew internattki uruwrin,,,This person's daughter was taken to boarding school.,even1260,Even,stan1293,English
+even_sent_002,even_data,ewidnami erəɣer irkaɟanotten,,,"When he goes to play, he always starts shouting.",even1260,Even,stan1293,English
+even_sent_003,even_data,bi kuŋaw ŋaldi ururiwu toleʃki,,,I led the child outside by the hand.,even1260,Even,stan1293,English
+even_sent_005,even_data,bi ariwu asatkam ŋidukkə ivan bəleddin,,,I knew the girl whom Ivan was helping.,even1260,Even,stan1293,English
+even_sent_006,even_data,gitu tewleɟinni,,,You will go to pick blueberries.,even1260,Even,stan1293,English
+even_sent_007,even_data,diktofonə beririn temi ɲomakat͡ɕt͡ɕidden,,,He lost the voice recorder and is running back and forth.,even1260,Even,stan1293,English
+even_sent_008,even_data,bi kojerəm ŋi girkaddən,,,I can see who is coming.,even1260,Even,stan1293,English
+even_sent_009,even_data,ulit͡ɕan ɲorin kobalan ɟebəddiken ollaw,,,The fox ran away while the bear was eating fish.,even1260,Even,stan1293,English
+even_sent_010,even_data,tiniw magazinteki uninaʃin olləw,,,Yesterday he went to the shop to buy fish.,even1260,Even,stan1293,English
+even_sent_011,even_data,noŋartən noŋman gowritən nan temi eŋullin,,,"They barked at him, and he got frightened.",even1260,Even,stan1293,English
+even_sent_012,even_data,tanʲa gunin noŋan upkut͡ɕiddaji ʃkolala,,,Tanya said that she studies at school.,even1260,Even,stan1293,English
+even_sent_013,even_data,bi buriwu orom erektu bejdu,,,I gave the reindeer to this person.,even1260,Even,stan1293,English
+even_sent_014,even_data,"ollaw uniriwun essola, it͡ɕiwun anavgajla",,,"We bought fish in Esso, not in Anavgay.",even1260,Even,stan1293,English
+even_sent_015,even_data,noŋan urrin ɲut͡ɕatki jawut gadaji,,,He went to the Russian to get something.,even1260,Even,stan1293,English
+even_sent_016,even_data,timina bai biɟin,,,The weather will be good tomorrow.,even1260,Even,stan1293,English
+even_sent_017,even_data,ekmu nuʃʃin tole.ʃki,,,She went outside that one time.,even1260,Even,stan1293,English
+even_sent_018,even_data,nan iʃimə aŋanniwu nodəkaw awandula,,,But then I sewed a decoration onto the hat.,even1260,Even,stan1293,English
+even_sent_019,even_data,bi ittem nimqaɲiw etiken net͡ɕewen,,,I see the staff that the old man put down.,even1260,Even,stan1293,English
+even_sent_020,even_data,eləkkə taŋat͡ɕillin meni merget͡ɕ oddeji,,,Lyosha considers himself clever.,even1260,Even,stan1293,English
+even_sent_021,even_data,ilkan udalawriten,,,They got caught in heavy rain.,even1260,Even,stan1293,English
+even_sent_022,even_data,lʲoʃa nɵw biʃni,,,Lyosha has a younger brother or sister.,even1260,Even,stan1293,English
+even_sent_023,even_data,bi nunnem orondu badudaj,,,I do not know how to ride a reindeer.,even1260,Even,stan1293,English
+even_sent_024,even_data,tuɣenidu bu ewiɟotte∅ новый год,,,We celebrate New Year in winter.,even1260,Even,stan1293,English
+even_sent_025,even_data,"tiniw tog durerin, tik udallin, tik eʃni durrə",,,"Yesterday the fire was burning, but today it started raining.",even1260,Even,stan1293,English
+even_sent_026,even_data,bi awmi ɟormiwriwu Antondu,,,Anton stole my hat.,even1260,Even,stan1293,English
+even_sent_027,even_data,bi ŋelliwu kuŋa tikten,,,I was afraid that the child would fall.,even1260,Even,stan1293,English
+even_sent_028,even_data,bi ataləddiwu kamleju ɲan tikukaniwu,,,I was taking off the kamleika and dropped it.,even1260,Even,stan1293,English
+even_sent_029,even_data,udən oddin ɲultən irin,,,"The rain stopped, and the sun came out.",even1260,Even,stan1293,English
+even_sent_030,even_data,noŋan t͡ɕeleɟur ɲobatə temide gurburitən ɲobaŋa,,,"He is entirely white, so they named him Nyobanga.",even1260,Even,stan1293,English
+even_sent_031,even_data,aʃatkan uletəddin toɣu təɣrin i mərget͡ɕiddin,,,"The young woman fed the fire, sat down and fell into thought.",even1260,Even,stan1293,English
+even_sent_032,even_data,polina teleŋnin men ŋini,,,Polina told a story about her dog.,even1260,Even,stan1293,English
+even_sent_033,even_data,bargɨt͡ɕ okatu tulneli adəlu,,,Go and set the net on the other bank of the river.,even1260,Even,stan1293,English
+even_sent_034,even_data,bakriwun urkaŋur ut͡ɕitelgan,,,We found a teacher for our son.,even1260,Even,stan1293,English
+even_sent_035,even_data,ullew minerаm nan irkamu kiŋellən,,,I was cutting meat and broke my knife.,even1260,Even,stan1293,English
+even_sent_036,even_data,ekenni neirin irqunitaw kuŋaŋi,,,The mother scolded the disobedient child.,even1260,Even,stan1293,English
+even_sent_037,even_data,ŋin melŋuŋt͡ɕirin dəgəlukanin t͡ɕukat͡ɕarbə,,,The dog jumped and made the birds fly up.,even1260,Even,stan1293,English
+even_sent_038,even_data,imanna nennin temi okat tilkanin,,,"The snow melted, so the river overflowed.",even1260,Even,stan1293,English
+even_sent_039,even_data,pʲitre tətəddəkən mat͡ɕili toreddin,,,"While Petya was getting dressed, Vasya was talking.",even1260,Even,stan1293,English
+even_sent_040,even_data,tarak bejə et͡ɕ arə uruwriɟi kuŋalbə,,,That man did not know that the children had been taken away.,even1260,Even,stan1293,English
+even_sent_041,even_data,iludditən t͡ɕajəw uksiw etlen gilləllan,,,They were drinking hot tea until it cooled down.,even1260,Even,stan1293,English
+even_sent_042,even_data,ekmu irin bi knigaw ɟawat͡ɕiddiwu,,,"When my mother came in, I was holding a book.",even1260,Even,stan1293,English
+even_sent_043,even_data,illa.t͡ɕaddan ɟu erekew stenan eʃitt͡ɕe,,,There stands a house whose wall is painted.,even1260,Even,stan1293,English
+even_sent_044,even_data,umən budelu enʃen giaʃi budəl əʃni ənʃə,,,"One leg hurts, but the other does not.",even1260,Even,stan1293,English
+even_sent_045,even_data,erele udanɟidən mindu ɲulten,,,"It is raining around here, but I have sunshine.",even1260,Even,stan1293,English
+even_sent_046,even_data,anton atikaŋnin i t͡ɕeleɟur ajawəlliten atəkaman,,,"Anton got married, and everyone liked his wife.",even1260,Even,stan1293,English
+even_sent_047,even_data,t͡ɕanderɣli daw.uriwun baššaki,,,Chandr and I crossed to the other side.,even1260,Even,stan1293,English
+even_sent_048,even_data,bi eməddiwu i tar.mət͡ɕ biddekəʃ tala,,,I was coming while you were there.,even1260,Even,stan1293,English
+even_sent_049,even_data,vanʲa lʲoʃaɣli ɲonitən ɟutkiwər ʃkoladuk,,,Vanya and Lyosha ran home from school.,even1260,Even,stan1293,English
+even_sent_050,even_data,etiken ittən mereŋten eidu kaltawrin,,,The old man sees that his ski has split completely.,even1260,Even,stan1293,English
+even_sent_051,even_data,oleg ejdu ɲobatə oddin əŋullin entekeje,,,Oleg turned pale with fear (literally: became all white and got very frightened).,even1260,Even,stan1293,English
+even_sent_052,even_data,babuʃka ulgimirin ɟebɟinni,,,"Grandmother asked, 'Will you eat?'",even1260,Even,stan1293,English
+even_sent_053,even_data,oleg ɵrrin krɨʃatki ɲan taduk tikrin,,,Oleg went onto the roof and fell from there.,even1260,Even,stan1293,English
+even_sent_054,even_data,lʲoʃa əmnəkən ɟula bi indu oɲad'im,,,"If Lyosha has come home, I will write to you.",even1260,Even,stan1293,English
+even_sent_055,even_data,udanət͡ɕ ulaptiwu,,,I got soaked in the rain.,even1260,Even,stan1293,English
+even_sent_056,even_data,tadu ɟurbu aŋnənu tuɣəʃedditen,,,They spent two winters (years) wintering there.,even1260,Even,stan1293,English
+even_sent_057,even_data,eleke dolderin munu kumerkinin stolu,,,Lyosha heard us and overturned the table.,even1260,Even,stan1293,English
+even_sent_058,even_data,bi girkadnikan ittiwu orom bujla,,,I was walking and saw a reindeer in the forest.,even1260,Even,stan1293,English
+even_sent_059,even_data,ɟuɣanitan bu utednawattu namtəki,,,Every summer I go to the sea to rest.,even1260,Even,stan1293,English
+even_sent_060,even_data,erek t͡ɕaʃka kawakt͡ɕa orat͡ɕit͡ɕ tarakaʃi t͡ɕajt͡ɕibat͡ɕ,,,"This cup was broken by an Even, and that one by a Koryak.",even1260,Even,stan1293,English
+even_sent_061,even_data,anʲa dolt͡ɕedden radio,,,Anya is listening to the radio.,even1260,Even,stan1293,English
+even_sent_062,even_data,tekt͡ɕinede nokrin kamlejkaji uʃile,,,Tanya also hung up her kamleika on the rope.,even1260,Even,stan1293,English
+even_sent_063,even_data,kuŋan beriptiken akadmar gelniɟin noŋman,,,"If the child gets lost, the father will go looking for him.",even1260,Even,stan1293,English
+even_sent_064,even_data,bi antondu aŋanniwu urbakkan,,,I sewed a shirt for Anton.,even1260,Even,stan1293,English
+even_sent_065,even_data,erek ŋinə it͡ɕewrin t͡ɕeledu oraldu,,,This dog was seen by all the reindeer.,even1260,Even,stan1293,English
+even_sent_066,even_data,bi ŋelliwu timina uptudaj praznikteki,,,I was afraid of being late to the festival tomorrow.,even1260,Even,stan1293,English
+even_sent_067,even_data,bi turkuriwu madaji ulit͡ɕam,,,I could not kill the fox; I felt sorry for it.,even1260,Even,stan1293,English
+even_sent_068,even_data,bi ine∅m moskvala ulitsala lenina,,,I live in Moscow on Lenin Street.,even1260,Even,stan1293,English
+even_sent_069,even_data,bi gajriwu umtəw kuŋa ukeɲiŋgan,,,I exchange an egg for milk for the child.,even1260,Even,stan1293,English
+even_sent_070,even_data,t͡ɕalbantki ŋənniwu nan kulit͡ɕandu it͡ɕiwriwu,,,"I approached the birch tree, and the mosquitoes noticed me.",even1260,Even,stan1293,English
+even_sent_071,even_data,"alnejdula ɟuɣaʃəddəwu, tarakam iŋeɲ biʃin",,,I spent the summer in Alney; it was cold then.,even1260,Even,stan1293,English
+even_sent_072,even_data,t͡ɕukat͡ɕan minu ittin bi t͡ɕukat͡ɕam it͡ɕiddəm,,,"The bird saw me, and I can see the bird.",even1260,Even,stan1293,English
+even_sent_073,even_data,bi timina t͡ɕaknaɟim dewenŋitu bujla,,,Tomorrow I will gather mushrooms in the forest.,even1260,Even,stan1293,English
+even_sent_074,even_data,min ɟalbu goru bət͡ɕidditen uliki,,,My friends hunted squirrels for a long time.,even1260,Even,stan1293,English
+even_sent_075,even_data,kat͡ɕikanni kut͡ɕukan gulaŋəkakan,,,His puppy is very small and reddish.,even1260,Even,stan1293,English
+even_sent_076,even_data,egden unŋe biʃiken tikriten oja mo,,,"There was a strong blizzard, and many trees fell.",even1260,Even,stan1293,English
+even_sent_077,even_data,"bu baduriwun uməttu, badumattiwun",,,"We rode together, on the same horse.",even1260,Even,stan1293,English
+even_sent_078,even_data,bi bakriw ollaw kuŋal ulet͡ɕawutən,,,I found the fish that the children had thrown away.,even1260,Even,stan1293,English
+even_sent_079,even_data,orot͡ɕil ollaw kamgiddə∅ kamdu,,,The Evens prepare fish to make yukola.,even1260,Even,stan1293,English
+even_sent_080,even_data,bi dalin ŋənniwu okat ait͡ɕ iʃellin,,,"I came closer, and the river became audible.",even1260,Even,stan1293,English
+even_sent_081,even_data,əlekke bi adun boknnottəm,,,I rarely catch up with Lyosha.,even1260,Even,stan1293,English
+even_sent_082,even_data,bi arem pʲetʲaw kulit͡ɕan kikrin,,,I know that mosquitoes bit Petya.,even1260,Even,stan1293,English
+even_sent_083,even_data,nadeʐda jegorovna təgət͡ɕiddin ot͡ɕiɟakla stulla,,,Nadezhda Yegorovna was sitting on a chair in the workshop.,even1260,Even,stan1293,English
+even_sent_084,even_data,bi taŋnamt͡ɕiw ʃkolatki tarmə bi gurgewt͡ɕirəm,,,"I would go to school to study, but I need to work.",even1260,Even,stan1293,English
+even_sent_085,even_data,"tik irkan at͡ɕ iʃi odin, kawaku",,,Now the knife has no handle; it is broken.,even1260,Even,stan1293,English
+even_sent_086,even_data,oleg ŋeluke temide ɲobargəwatten,,,Oleg is easily frightened and always turns pale from fear.,even1260,Even,stan1293,English
+even_sent_087,even_data,maksim mərgətən men merget biʃije,,,Maksim thinks that he is clever.,even1260,Even,stan1293,English
+even_sent_088,even_data,bi girkawat͡ɕiddem magazinduk bibliotekakla,,,I walk from the shop to the library.,even1260,Even,stan1293,English
+even_sent_089,even_data,"ɟormerin erew tamanu, gajrin untət͡ɕ",,,The thief stole this money and replaced it with other money.,even1260,Even,stan1293,English
+even_sent_091,even_data,ekmə oja gurge temidə ɲowattən ereger tole.ʃki,,,"Mother has a lot of work, so she keeps going out of the tent.",even1260,Even,stan1293,English
+even_sent_092,even_data,mindule t͡ɕakar taknun amuritən esnə dalla biʃ,,,My salt and sugar got mixed together; it tastes awful!,even1260,Even,stan1293,English
+even_sent_093,even_data,an kuŋan merurtikan ajawran,,,Some children think only of themselves.,even1260,Even,stan1293,English
+even_sent_094,even_data,vasʲa entilni nulgəritən twajanduk ɲunŋənmier anŋan amu.ʃki,,,Vasya's parents moved from Tvayan sixty years ago.,even1260,Even,stan1293,English
+even_sent_095,even_data,dolderiʃən Polina koratən aj odən,,,Did you hear? Polina's ear has healed.,even1260,Even,stan1293,English
+even_sent_096,even_data,kuŋa prazdnikdula ɟebket͡ɕiddən,,,The child is eating various things at the festival.,even1260,Even,stan1293,English
+even_sent_097,even_data,kut͡ɕukanu kuŋadu menken teturəm,,,I dress the little child myself.,even1260,Even,stan1293,English
+even_sent_098,even_data,Tobor dəʃt͡ɕi∅n sundukle amilan giakinun,,,The axe is lying in the chest among other things.,even1260,Even,stan1293,English
+even_sent_099,even_data,i urli epkeneli orəm,,,You must go and catch this reindeer.,even1260,Even,stan1293,English
+even_sent_100,even_data,mun bibliotekatkiwun emuritən anŋamte kinigelbə,,,New books were brought to our library.,even1260,Even,stan1293,English
+even_sent_101,even_data,marja gerbetten noŋan ait͡ɕ koplet͡ɕi⊘n,,,Marya thinks that she dances well.,even1260,Even,stan1293,English
+even_sent_102,even_data,daʃa ittɨn ollaw saʃa emut͡ɕewen,,,Dasha saw the fish that Sasha had brought.,even1260,Even,stan1293,English
+even_sent_103,even_data,ɲulten it͡ɕurin,,,The sun was visible.,even1260,Even,stan1293,English
+japhug_sent_test_000,japhug_test_data,ɯkɯkɯki nɤkinɯ tɯtaʁ mtʰɯxtɕɤr tukɯti ŋu,,,This thing is called a `cloth belt'.,japh1234,Japhug,stan1293,English
+japhug_sent_test_001,japhug_test_data,kɯki tɯtaʁ mtʰɯxtɕɤr tukɯti ŋu tɕe tɕe,,,"This is called a `cloth belt', and",japh1234,Japhug,stan1293,English
+japhug_sent_test_002,japhug_test_data,ki tuwɣstu tɕe nɤki kɯki tɕʰɯzɯ kɯki kɯ kuwɣsɯndo,,,"one ties the cloth beam like this, with this",japh1234,Japhug,stan1293,English
+japhug_sent_test_003,japhug_test_data,kɯki tɕʰɯzɯ rmi tɕe,,,This is called a cloth beam,japh1234,Japhug,stan1293,English
+japhug_sent_test_004,japhug_test_data,tɕe nɯnɯ kɯ kɤtaʁ nɯ kuwɣsɯndo,,,"and one ties the woven threads with that,",japh1234,Japhug,stan1293,English
+japhug_sent_test_005,japhug_test_data,kɯki kuwɣsɯndo kɯki pjɯwɣsɯɲcɤr tɕe tɕe kɯki,,,"one ties this with it, one presses this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_006,japhug_test_data,tɕe ɯtaʁ luwɣʑa ŋu,,,and one starts weaving.,japh1234,Japhug,stan1293,English
+japhug_sent_test_007,japhug_test_data,ki tɯmtʰɤɣ ɲɯwɣrtɤβ tɕe ɯkɯki tɕʰɯzɯ rmi,,,One attaches this around the waist. This is called a cloth beam.,japh1234,Japhug,stan1293,English
+japhug_sent_test_008,japhug_test_data,kɯki tɕʰɯzɯ rmi,,,This is called a cloth beam.,japh1234,Japhug,stan1293,English
+japhug_sent_test_009,japhug_test_data,tɕe kɤtaʁ kɯki ɯsɤndo ŋu tɕe,,,and this is used to attach the woven threads.,japh1234,Japhug,stan1293,English
+japhug_sent_test_010,japhug_test_data,tɕe nɯ ki tuwɣstu tɕe tɕendɤre tʰɯwɣtaʁ tɕe,,,and one weaves like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_011,japhug_test_data,ɯkɯki nɯ tɯjlɤβ rmi,,,This one is the (spool of) weft.,japh1234,Japhug,stan1293,English
+japhug_sent_test_012,japhug_test_data,tɕe kɯki ɯsqar ci cʰɯwɣlɤt tɕe ci ntsɯ ɲɯwɣrʁe ŋu,,,"Each time one pulls down the warp crossing, one puts it (the weft thread) through.",japh1234,Japhug,stan1293,English
+japhug_sent_test_013,japhug_test_data,ɯkɯki nɯ tʰaʁmu rmi,,,This one is called a weft beater.,japh1234,Japhug,stan1293,English
+japhug_sent_test_014,japhug_test_data,tʰaʁmu rmi tɕe nɯnɯ kɯki ɯsqar tʰɯkɤlɤt ki tuwɣstu tɕe cʰɯwɣsɯɣnda ŋu,,,"It is called a weft beater, and with it, one packs down the warp crossing that has been made.",japh1234,Japhug,stan1293,English
+japhug_sent_test_015,japhug_test_data,ki tuwɣstu ŋu,,,One does like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_016,japhug_test_data,tɕendɤre tʰɯwɣtaʁ tɕe ɯkɯkɯra kɯki kɯkɯra tɤrɤm kɯkɯra tɤrɤm kɯra tʰaχɕa rmi,,,"Then when one weaves, these planks, these planks are called shed sticks.",japh1234,Japhug,stan1293,English
+japhug_sent_test_017,japhug_test_data,kɯkɯra tʰaχɕa rmi,,,These are called shed sticks.,japh1234,Japhug,stan1293,English
+japhug_sent_test_018,japhug_test_data,kɯki li tʰaχɕa kɯki tʰaχɕa ŋu kɯki li tʰaχɕa ŋu tɕe,,,"This is a shed stick, this is a shed stick, this one is a shed stick too.",japh1234,Japhug,stan1293,English
+japhug_sent_test_019,japhug_test_data,tɕendɤre nɤki nɯnɯ ɯsqar ɣɯ cʰɯkɯsɯɣe nɯ ŋu,,,That is the (implement) which brings down the warp crossing (changes the shed). %01:06-01:07,japh1234,Japhug,stan1293,English
+japhug_sent_test_020,japhug_test_data,ɯkɯkɯki nɯ ɕnat ŋu,,,This one is a heddle.,japh1234,Japhug,stan1293,English
+japhug_sent_test_021,japhug_test_data,kɯki ɕnat ŋu kɯki li ɕnat ŋu,,,This is a heddle this is a heddle too.,japh1234,Japhug,stan1293,English
+japhug_sent_test_022,japhug_test_data,tɕe kɯki ra nɤkinɯ ɕnanndʑu ŋu tɕe,,,These are heddle sticks.,japh1234,Japhug,stan1293,English
+japhug_sent_test_023,japhug_test_data,kɯkɯra ɕnanndʑu kɯki ɕnanndʑu,,,"These are heddle sticks, this is a heddle stick.",japh1234,Japhug,stan1293,English
+japhug_sent_test_024,japhug_test_data,kɯki tɤri kɯra ɕnat,,,These threads are heddles.,japh1234,Japhug,stan1293,English
+japhug_sent_test_025,japhug_test_data,kɯki kɯra ɯɕnat ŋu kɯki tɕe ɕnat rmi kɯki tɤri kɯra ɕnat rmi,,,"These are (the loom's) heddles, this is called heddle, these threads are called heddles.",japh1234,Japhug,stan1293,English
+japhug_sent_test_026,japhug_test_data,tɕe nɯ ɣɯtaʁ tɤmda tɕe tɕe,,,When it is time to weave...,japh1234,Japhug,stan1293,English
+japhug_sent_test_027,japhug_test_data,tɕe nɯnɯ ɕnat ŋu ɕnanndʑu ŋu,,,"That is a heddle, that a heddle stick,",japh1234,Japhug,stan1293,English
+japhug_sent_test_028,japhug_test_data,ɯkɯkɯki ɲɯkɯɕe ndʑu kɯki nɤki zgrɯl rmi,,,"And this stick that is in the axis that is perpendicular to the warp (east-west), it is called coil rod.",japh1234,Japhug,stan1293,English
+japhug_sent_test_029,japhug_test_data,ɯkɯkɯki zgrɯl rmi nɯ stu lumaŋlo ŋu kɯki stu lumaŋlo ŋu,,,This one is called coil rod. It is the furthest upstream (towards the end of the warp). This is the furthest upstream.,japh1234,Japhug,stan1293,English
+japhug_sent_test_030,japhug_test_data,ɯkɯkɯki kɯɴɢu ɯstu nɯtɕu li ci zgrɯlpɯ ci tuwɣβzu ri tɕe zgrɯlpɯ rmi zgrɯl ɯpɯ,,,"At this place where there are tight (threads), one also puts a tensioning rod. It is called `little coil rod'",japh1234,Japhug,stan1293,English
+japhug_sent_test_031,japhug_test_data,kɤtaʁ kɯki lukɯɕe kɯki tɤri ki ɯphoŋbu lukɯɕe kɯki nɤkinɯ ɯʁjar ɯʁjar tukɯti ŋu,,,"These threads, which are in the upstream-downstream axis, are called the warp.",japh1234,Japhug,stan1293,English
+japhug_sent_test_032,japhug_test_data,ɯkɯki tɕe ɯjlɤβ ɯkɯki tɕe ɯjlɤβ kɯki tɤri kɯki ɯjlɤβ ŋu,,,"This one is the weft, this thread is the weft.",japh1234,Japhug,stan1293,English
+japhug_sent_test_033,japhug_test_data,kɯki ndʑu ki jlɤβndʑu tukɯti ŋu,,,This stick is the weft stick.,japh1234,Japhug,stan1293,English
+japhug_sent_test_034,japhug_test_data,tɕendɤre cʰɯwɣtaʁ tɕe tɕe ɴqa matɕi,,,"When one weaves, it is difficult, because",japh1234,Japhug,stan1293,English
+japhug_sent_test_035,japhug_test_data,ɯkɯki ɕnat ʁnɯz kɯni kɯ ɯkɯki tɯtaʁ lukɤsɯβzu nɯ kɯ tunɯβre ŋu,,,these two heddles are used to make the fabric.,japh1234,Japhug,stan1293,English
+japhug_sent_test_036,japhug_test_data,tɕe nɤki ki tuwɣstu tɕe ki tuwɣstu tɕe,,,One does like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_037,japhug_test_data,ɯkɯki pjɯɤqɤtʂʰa ŋu tɕe,,,The (upper and lower warp threads) are crossed.\footnote{Tshendzin re-formulated this sentence more explicitly as `ɯ-taʁ cho ɯ-pa ɣɯ ɯ-ʁjar ni pjɯ-ɤqɤtʂha-ndʑi'},japh1234,Japhug,stan1293,English
+japhug_sent_test_038,japhug_test_data,kɯki kɯ tarɤɕi nɯ ɯtaʁ tuɣi ŋu,,,"the thread that has been pulled up by this heddle comes up (on the vertical axis),\footnote{kɯki ɕnat kɯ tɤ-kɤ-rɤɕi ɯ-ʁjar}",japh1234,Japhug,stan1293,English
+japhug_sent_test_039,japhug_test_data,ɯkɯki ɣɯ ɯβra ɯpa pjɯɕe ŋu tɕe,,,and it is this (thread)'s turn to go down.,japh1234,Japhug,stan1293,English
+japhug_sent_test_040,japhug_test_data,ɯkɯki pjɯkɯɤqɤtʂʰa kɯki ɯsqar tukɯti ŋu kɯki ɯsqar tukɯti ŋu,,,"This crossing (of warp threads) here, is called the warp crossing. This is called the warp crossing.",japh1234,Japhug,stan1293,English
+japhug_sent_test_041,japhug_test_data,tɕe ki tuwɣstu tɕe tɕendɤre,,,One does like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_042,japhug_test_data,tʰaʁmu ɲɯwɣlɤt tɕe ki tuwɣstu tɕe,,,"One inserts the weft beater through the axis perpendicular to the warp, and one does like this, one does like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_043,japhug_test_data,ki tuwɣstu tɕe tɕe cʰɯwɣtaʁ ŋu,,,One weaves (pulls the warp crossing towards the weaver) like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_044,japhug_test_data,tɕe ki ɯsqar ki cʰɯsɯxɕe ŋu,,,And it brings the warp crossing `downstream',japh1234,Japhug,stan1293,English
+japhug_sent_test_045,japhug_test_data,ɯsqar nɯ tha thɯari tɕe tɕe nɤki kɯki tuwɣstu tɕe cʰɯwɣɣnda,,,"When the warp crossing has gone down, one presses it down like this.",japh1234,Japhug,stan1293,English
+japhug_sent_test_046,japhug_test_data,wuma ʑo cʰɯwɣɣnda ra ma nɯmaʁnɤ mpɯ tɕe mɤpe tɕe mɤngɯt,,,"On has to press it down very tightly, otherwise it is loose, it is not good not durable.",japh1234,Japhug,stan1293,English
+japhug_sent_test_047,japhug_test_data,ki tuwɣstu tɕe,,,One does like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_048,japhug_test_data,nɯnɯ pjɯkɯɤqɤtʂʰa nɯnɯ ɯsqar ŋu,,,The crossing (of the threads) is the warp crossing.,japh1234,Japhug,stan1293,English
+japhug_sent_test_049,japhug_test_data,tɕe ki chɯw cʰɯwɣqʰrɯt tɕe tɕe,,,One clears the shed.,japh1234,Japhug,stan1293,English
+japhug_sent_test_050,japhug_test_data,nɯtɕu tɕe tɕe kɯki ʁnaʁna ɯpa kɯki ɯsqar li ɯsqar cʰɯɕe ra,,,"There, under the two (heddles), another warp crossing has to go down",japh1234,Japhug,stan1293,English
+japhug_sent_test_051,japhug_test_data,kɯki ɯpa pjɯkɯɤqɤtʂʰa kɯki ɯsqar ŋu,,,This crossing (of threads) below is the warp crossing.,japh1234,Japhug,stan1293,English
+japhug_sent_test_052,japhug_test_data,tɕe nɯ tuwɣstu tɕe tɕe,,,"One does like that,",japh1234,Japhug,stan1293,English
+japhug_sent_test_053,japhug_test_data,iɕqʰa nɯ tʰi nɯ kɯki ɯjl ɕnat maŋtʰi ki tɤjoʁa pɯŋu tɕe,,,"Just before, I had lifted this one, the lower heddle",japh1234,Japhug,stan1293,English
+japhug_sent_test_054,japhug_test_data,tʰam tɕe maŋlo nɯra tuwɣjoʁ ra tɕe tɕe kɯki,,,"Now, one has to lift the (warp threads connected to the) upper heddle (the heddle located `upstream', further away from the weaver),",japh1234,Japhug,stan1293,English
+japhug_sent_test_055,japhug_test_data,ki tuwɣstu tɕe maŋlo nɯra tuwɣjoʁ tɕe kɯki,,,"one raises the (warp threads connected to the) upper (heddle) like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_056,japhug_test_data,iɕqʰa tʰi ɣɯ tɤkɤrɤɕi nɯra tʰam tɕe pa ɯβra pjɯɕe ŋu tɕe,,,"now, it is the turn of the (threads) that had been pulled up just before to go down (on the vertical axis),",japh1234,Japhug,stan1293,English
+japhug_sent_test_057,japhug_test_data,nɯnɯ tʰaχɕa ki tuwɣstu ɲɯwɣrʁe tɕe,,,one inserts the shed stick,japh1234,Japhug,stan1293,English
+japhug_sent_test_058,japhug_test_data,tɕe nɯnɯ ɯsqar,,,and the warp crossing...,japh1234,Japhug,stan1293,English
+japhug_sent_test_059,japhug_test_data,kɯki ɯβra tuwɣrɤɕi tɕe tɕe kɯki ɣɯ ɯβra nɯ pa pjɯɕe ŋu,,,"It is the turn of this one to be pulled up, and of this one to go down",japh1234,Japhug,stan1293,English
+japhug_sent_test_060,japhug_test_data,kɯki nɯ taʁ tuwɣrɤɕi ŋu tɕe,,,"One pulls up this one,",japh1234,Japhug,stan1293,English
+japhug_sent_test_061,japhug_test_data,tɕe ki tuwɣstu tɕe cʰɯwɣlɤt ɲɯŋu,,,and one (brings the warp crossing down) like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_062,japhug_test_data,tɕe nɯ kɯ ɯsqar nɯ tʰaχɕa nɯ kɯ ɯsqar nɯ cʰɯsɯɣe ɲɯŋu,,,"And that, the shed stick, brings the warp crossing towards the weaver",japh1234,Japhug,stan1293,English
+japhug_sent_test_063,japhug_test_data,tɕe ki tuwɣstu tɕe luwɣtaʁ,,,and one weaves like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_064,japhug_test_data,ki cʰɯwɣɣnda ra ma nɯmaʁnɤ mɤnɤrko tɕe,,,"One has to press this down, otherwise it is not strong/durable.",japh1234,Japhug,stan1293,English
+japhug_sent_test_065,japhug_test_data,woja tɕe nɯ tufse tɕe tɕe kɯki ɯkɯki ldʑaŋkɯ tɤkɯɣe ki cʰɤrtaʁ tɕe tɕe kɯki,,,"Yes, it becomes like that, and when this green (thread) on the upper level (on the vertical axis) is enough,",japh1234,Japhug,stan1293,English
+japhug_sent_test_066,japhug_test_data,kɯmaʁ nɯ ʁmɤrsɤr rmi tɕe nɯnɯ ɯβra ɕtuwɣlɤt tɕe,,,"the other one, (it is called `orange'), it is its turn to be brought to the upper level.",japh1234,Japhug,stan1293,English
+japhug_sent_test_067,japhug_test_data,kɯki ɕnat kɯni kɯ ɯsqar kɤlɤt tunɯβrandʑi ŋu,,,These two heddles are used to make the warp crossing.,japh1234,Japhug,stan1293,English
+japhug_sent_test_068,japhug_test_data,cici ki tuwɣjoʁ cici ki tuwɣjoʁ,,,"Sometimes one raises this (heddle), sometimes one raises this (other heddle),",japh1234,Japhug,stan1293,English
+japhug_sent_test_069,japhug_test_data,tɕe tɕe nɯ kɯ ɯsqar cʰɯlɤt tɕe tɕe tɯtaʁ luβze ŋu,,,"and it (makes) the warp crossing, to make the woven fabric.",japh1234,Japhug,stan1293,English
+japhug_sent_test_070,japhug_test_data,tɕe kɯki ɯɕnat kɯki kɯ ɯmɯntoʁ kɤsɯβzu tunɯβre ŋu,,,"This heddle (the white one, the one furthest from the weaver, `upstream')\footnote{stu kɯ-maŋlo} is used to make the patterns.",japh1234,Japhug,stan1293,English
+japhug_sent_test_071,japhug_test_data,ɯmɯntoʁ kɤβzu tɕe tɕe ki tuwɣstu tɕe nɤki ra wo,,,"To make the pattern, one does like this, one has to do that,",japh1234,Japhug,stan1293,English
+japhug_sent_test_072,japhug_test_data,kɯki tɕe tɕe ɯmɯntoʁ nɯnɯ nɤkinɯ tɕeki tʰaχtsa apɯŋu tɕe ɯmɯntoʁ ra tɕe,,,"For coloured belts, it is necessary to have patterns,",japh1234,Japhug,stan1293,English
+japhug_sent_test_073,japhug_test_data,nɯnɯ ɣɯ tɕe ki tuwɣstu tɕe,,,"one does like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_074,japhug_test_data,iɕqʰa ldʑaŋkɯ pɯŋu tɕe tʰam tɕe kɯki ʁmɤrsɤr ki ɯβra tumda ŋu,,,"Just before, it was a green thread, and now it is the turn of this orange thread,",japh1234,Japhug,stan1293,English
+japhug_sent_test_075,japhug_test_data,tɕe ki tufse ŋu tɕe,,,it becomes like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_076,japhug_test_data,tɕe ki tuwɣtɕɤt tɕe iɕqʰa nɯ,,,"One picks it up.\footnote{This sentence was explained as: ` It is time to pick up the warp threads that are orange, and to make disappear the green ones in the lower layer.' (ʁmɤrsɤr kɯ-ŋu ɣɯ ɯ-ʁjar nɯ tú-wɣ-tɕɤt to-mda, ldʑaŋkɯ nɯ pjɯ́-wɣ-sɯ-ɕqhlɤt ra)}",japh1234,Japhug,stan1293,English
+japhug_sent_test_077,japhug_test_data,iɕqʰa ldʑaŋkɯ ʁɟa ʑo pɯŋu tʰam tɕe ʁmɤrsɤr ʁɟa ʑo ɲɯwɣβzu ra,,,"Just before, it was completely green, now one has to make it completely orange.",japh1234,Japhug,stan1293,English
+japhug_sent_test_078,japhug_test_data,ɯkɯki ɯrkoz kɤtʰɯta ŋu ma,,,"I prepared this one specially (for you),",japh1234,Japhug,stan1293,English
+japhug_sent_test_079,japhug_test_data,nɯmaʁnɤ pɤjkʰu ajaʁ kɤsɯtaʁ kʰro mɯjkhɯ ma ajaʁ mɯjmna,,,"because otherwise I can't weave very well with my hands, as my hands have not recovered.",japh1234,Japhug,stan1293,English
+japhug_sent_test_080,japhug_test_data,ki tuwɣstu tɕe kɯki tɯrɣɯt tɯrɣɯt kuwɣlɤt tɕe tuwɣtɕɤt ra,,,One has to pick thread by thread like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_081,japhug_test_data,tɯjaʁ kɯ tuwɣznɯrdoʁ ra,,,One has to pick (the threads) by hand.,japh1234,Japhug,stan1293,English
+japhug_sent_test_082,japhug_test_data,tɕe mɯaɲaj wo kɤtaʁ,,,Weaving is not quick.,japh1234,Japhug,stan1293,English
+japhug_sent_test_083,japhug_test_data,cʰɯjɤɣ ʑo me,,,It never finishes.,japh1234,Japhug,stan1293,English
+japhug_sent_test_084,japhug_test_data,tɕe iɕqʰa kɯki ɯmdoʁ ki pɯŋu tɕe tʰam tɕe tɕe kɯki ɯβra cʰɯwɣlɤt ŋu,,,"Just before it was this colour (green), now it is this one's (orange) turn.",japh1234,Japhug,stan1293,English
+japhug_sent_test_085,japhug_test_data,woja tɕe tɕe kɯki zgrɯl nɯ kɯ kɯki tɯldʑa tɯldʑa nɯnɯ kɯki kusɯɤʑɯrje tɕe zgrɯl nɯ kɯ nɯ pjɯnɯβre ra,,,The coil stick is used to (maintain) aligned the (warp threads) one by one,japh1234,Japhug,stan1293,English
+japhug_sent_test_086,japhug_test_data,tɕe kɯki lɤaŋgɤrŋgɤr zgrɯl nɯ lo luwɣstʰoʁ qʰe tɕelo luwɣsɯxɕe qʰe,,,"When it (the woven cloth) become too close (to the coil stick), one pushes the coil stick upstream (away from the weaver on the warp axis), one makes it go upstream,",japh1234,Japhug,stan1293,English
+japhug_sent_test_087,japhug_test_data,kɯki nɯ tʰi cʰɯɣi qʰe,,,"and this one (the woven cloth) comes downstream (towards the weaver on the warp axis),",japh1234,Japhug,stan1293,English
+japhug_sent_test_088,japhug_test_data,ʑɯrɯʑɤri ki tufse qhe ɯpa ri lɤkɤtaʁ nɯ ɯpa ri luɕe,,,"Progressively, the woven (cloth) underneath (on the vertical axis) goes upstream (away from the weaving) like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_089,japhug_test_data,mɤkɤtaʁ nɯ ɯtaʁ ri tʰi cʰɯɣi ŋu,,,whereas the (warp) that has not be woven comes downstream,japh1234,Japhug,stan1293,English
+japhug_sent_test_090,japhug_test_data,tɕe ki tufse tɕe kɯki,,,"like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_091,japhug_test_data,tɕe ldʑaŋkɯ nɯnɯ nɯɣɤmeta tɕe ʁmɤrsɤr nɯra tɤtɕata,,,"I removed the green (threads), and picked up the orange ones.",japh1234,Japhug,stan1293,English
+japhug_sent_test_092,japhug_test_data,tɕe nɯ kɯfse ʁɟa ʑo lumnɤt nɤ lumnɤt qʰe tɕe cʰɯβze ɕti wo,,,"(the process) repeats all the way like that again and again, and the cloth (becomes woven)",japh1234,Japhug,stan1293,English
+japhug_sent_test_093,japhug_test_data,tɕe kɯki kɤtaʁ ɣɯ ɯkɯkɯki tɤɣle rmi,,,And this is called the warp beam.,japh1234,Japhug,stan1293,English
+japhug_sent_test_094,japhug_test_data,ɯkɯkɯki tɤɣle rmi tɕe kukutɕu ɲɯraʁ ra,,,"This is called the warp beam, (the warp threads) are stuck here.",japh1234,Japhug,stan1293,English
+japhug_sent_test_095,japhug_test_data,nɯtɕu kuwɣβraʁ qʰe cʰɯsɯɣe ŋu,,,"One attaches (the warp) there, (to maintain the tension of the warp) so that (the shed sticks) can bring the (warp crossing) downstream.",japh1234,Japhug,stan1293,English
+japhug_sent_test_096,japhug_test_data,nɯ ɕɯŋgɯ tɕe ɯtʰoʁ ri lukɯtaʁ tɕe,,,"Previously, one used to weave on the ground,",japh1234,Japhug,stan1293,English
+japhug_sent_test_097,japhug_test_data,tɤtsʰoʁ pjɯwɣno tɕe,,,"one would drive pegs,",japh1234,Japhug,stan1293,English
+japhug_sent_test_098,japhug_test_data,nɤki laʁjɯɣ ɲɯwɣɕar qʰe nɯ ɯku cʰɯsɯɤmtɕoʁnɯ qʰe pjɯɣndanɯ qʰe,,,"One would look for a stick, and they would sharpen its extremity, pound on it",japh1234,Japhug,stan1293,English
+japhug_sent_test_099,japhug_test_data,tɕe sɤtɕʰa kɯɣɤrɤβ tsa ri,,,"and on a slope,",japh1234,Japhug,stan1293,English
+japhug_sent_test_100,japhug_test_data,kɯ ri ci pjɯɲɟoʁnɯ pjɯsɯɤtsanɯ,,,"they would fix one on the left, insert it (into the ground),",japh1234,Japhug,stan1293,English
+japhug_sent_test_101,japhug_test_data,ndi ri li ci pjɯsɯɤtsanɯ qʰe tɕe,,,and another one on the right.,japh1234,Japhug,stan1293,English
+japhug_sent_test_102,japhug_test_data,tɤɣle nɯnɯtɕu cʰɯwɣsɯɣraʁ qʰe tɕe cʰɯwɣtaʁ pɯŋu,,,"one would then fix the warp beam there, and weave.",japh1234,Japhug,stan1293,English
+japhug_sent_test_103,japhug_test_data,tɕeri kukutɕu tɕe nɯra kɤstu mɯjkʰɯ ma kʰa ɲɯɕti tɕe,,,"But here we cannot do it like that, because it is a house,",japh1234,Japhug,stan1293,English
+japhug_sent_test_104,japhug_test_data,tɕe ɯkɯkɯki atʰaʁra ɯtsʰɤt ŋu,,,and thus I (use) this as a replacement for the warp beam pegs.\footnote{Tshendzin mistakenly said \ipa{a-tɤɣle} `my warp beam' instead of \ipa{a-tʰaʁra} `my warp beam peg'},japh1234,Japhug,stan1293,English
+japhug_sent_test_105,japhug_test_data,kɯki ni kɯki χcʰoʁe tɯka ki atʰaʁra ɯtsʰɤt ŋu,,,"These two, one on the left and one on the right, I (use) them as a replacement for the warp beam pegs.",japh1234,Japhug,stan1293,English
+japhug_sent_test_106,japhug_test_data,tɕe nɯnɯ tɕu ɲɯsɯɣraʁa qʰe maʁ,,,and I fixed (the warp beam) on it. No !,japh1234,Japhug,stan1293,English
+japhug_sent_test_107,japhug_test_data,kɯki ni tɤtsʰoʁ pjɯwɣno pɯra tɕe nɯnɯ tʰaʁra tukɯti ŋu,,,"One used to have to drive pegs (into the ground), and these are called warp beam pegs.",japh1234,Japhug,stan1293,English
+japhug_sent_test_108,japhug_test_data,kɯki scʰo kɯki ni tʰaʁra tukɯti ŋu,,,"This and this, these two are called warp beam pegs.",japh1234,Japhug,stan1293,English
+japhug_sent_test_109,japhug_test_data,kɯki tɤɣle tukɯti ŋu,,,This one is called a warp beam.,japh1234,Japhug,stan1293,English
+japhug_sent_test_110,japhug_test_data,kɯki laʁjɯɣ tɤɣle tukɯti ŋu,,,This stick is called a warp beam.,japh1234,Japhug,stan1293,English
+japhug_sent_test_111,japhug_test_data,kɯki ni tɤtsʰoʁ pjɯwɣno nɯ ɕɯŋgɯ ɯsɤɣraʁ χcʰoʁe kɯni tʰaʁra tukɯti ŋu,,,"And these two pegs that one drives (into the ground), formerly used to fix (the loom) on the left and on the right, are called the warp beam pegs.",japh1234,Japhug,stan1293,English
+japhug_sent_test_112,japhug_test_data,tɕe cʰɯwɣtaʁ qʰe tɕe kɯki ɯsqar ki tʰɯari qʰe,,,"While weaving, when this warp crossing goes towards the weaver,",japh1234,Japhug,stan1293,English
+japhug_sent_test_113,japhug_test_data,ɯjlɤβ kɯ kuwɣrʁe,,,"one inserts the weft towards the left,",japh1234,Japhug,stan1293,English
+japhug_sent_test_114,japhug_test_data,li ci tʰɯari qʰe ɯjlɤβ ndi ɲɯwɣrʁe qʰe,,,"and when another (warp crossing) goes towards the weaver, one inserts the weft towards the right.",japh1234,Japhug,stan1293,English
+japhug_sent_test_115,japhug_test_data,tɕe nɯnɯ kɯfse lukɯtaʁ ŋu,,,One weaves like that.,japh1234,Japhug,stan1293,English
+japhug_sent_test_116,japhug_test_data,tɕe tʰaχɕa ra kɯnɤ ʑakastaka nɯma tu,,,Each of the shed sticks have their own role.,japh1234,Japhug,stan1293,English
+japhug_sent_test_117,japhug_test_data,ma kɯki maŋtʰi ki kɯ ki tuste tɕe ɯpa ki tuwɣstu tɕe cʰɯwɣsɯqʰrɯt ŋu,,,"This one, the one furthest downstream (closest to the weaver), one does like this underneaths and clears the shed. %9:45",japh1234,Japhug,stan1293,English
+japhug_sent_test_118,japhug_test_data,cʰɯwɣsɯqʰrɯt qhe tɕendɤre nɤkinɯ ɯsqar nɯ tʰi cʰɯnɤm ŋu,,,It clears the shed and it pulls the warp crossing downstream.,japh1234,Japhug,stan1293,English
+japhug_sent_test_119,japhug_test_data,ɯsqar nɯ tʰi cʰɯnɤm qʰe tɕe kɯki tʰaʁmu kɤrʁe tukʰɯ ŋu,,,"it pulls the warp crossing downstream, and it becomes possible to insert the weft beater.",japh1234,Japhug,stan1293,English
+japhug_sent_test_120,japhug_test_data,kɯki tʰaʁmu kɯnɤ ɯkɯkɯki si pjɯŋu ra,,,"Concerning the weft beater, this (part) must be made of wood.",japh1234,Japhug,stan1293,English
+japhug_sent_test_121,japhug_test_data,kɯki si ɕkrɤz nɯmaʁnɤ mbraj pjɯŋu ra ma,,,Its wood has to be either oak or red birch.,japh1234,Japhug,stan1293,English
+japhug_sent_test_122,japhug_test_data,nɯmaʁ nɯra si nɯra ʑo tɕe mɤɣnde,,,"Otherwise, the wood is too light and doesn't tamp well",japh1234,Japhug,stan1293,English
+japhug_sent_test_123,japhug_test_data,tɕe kɯki ɯcʰɯsɤɣnda ɯstu kɯki ɕom ɲɯwɣβzu tɕe,,,"This part, the place which is used to tamp, is made of iron.",japh1234,Japhug,stan1293,English
+japhug_sent_test_124,japhug_test_data,ɯkɯki nɤkinɯ kɯki χcʰoʁe ki kɯfse tɯka kɯɤmtɕoʁ tu tɕe kutɕu,,,"On the right and on the left, there are pointy parts, here,",japh1234,Japhug,stan1293,English
+japhug_sent_test_125,japhug_test_data,tɕe nɯ ɯŋgɯ ri pjɯsɯɤtsanɯ,,,and (the iron blade) is inserted inside.,japh1234,Japhug,stan1293,English
+japhug_sent_test_126,japhug_test_data,tɕe nɯnɯ tʰaʁmu ŋu nɯmaʁnɤ nɤkinɯ mɤɣnde,,,"That is the weft beater, otherwise it doesn't tamp well.",japh1234,Japhug,stan1293,English
+japhug_sent_test_127,japhug_test_data,ki mɤɣnde tɕe tɯkɤtaʁ nɯ mpɯ tɕe mɤpe,,,It doesn't tamp well and one's woven cloth is soft and not good.,japh1234,Japhug,stan1293,English
+japhug_sent_test_128,japhug_test_data,kɯki atʰaʁmu ki χpɤltɕin kɯ naβzu ŋu,,,This weft beater of mine has been made by Dpalcan.,japh1234,Japhug,stan1293,English
+japhug_sent_test_129,japhug_test_data,ki tuwɣstu qʰe ɯsqar nɯ ntsɯ cʰɯɕe qʰe kɯki,,,"One does like that, and the warp crossing goes downstream,",japh1234,Japhug,stan1293,English
+japhug_sent_test_130,japhug_test_data,cici taʁ tuɣi cici pa pjɯɕe qʰe tɕe,,,"sometimes it comes upwards (vertically), sometimes it goes downwards,",japh1234,Japhug,stan1293,English
+japhug_sent_test_131,japhug_test_data,tɕe nɯ kɯfse luwɣtaʁ ɕti wo,,,That is how one weaves.,japh1234,Japhug,stan1293,English
+japhug_sent_test_132,japhug_test_data,nɯ mɤɕtʂa mɤkʰɯ,,,Otherwise it doesn't work.,japh1234,Japhug,stan1293,English
+japhug_sent_test_133,japhug_test_data,kɯki tʰɯqʰrɯta ri tɕe kɯki ʑakastaka ɯmdoʁ cʰɯɣi ŋu,,,"When I cleared this, each of the colours have come downstream.",japh1234,Japhug,stan1293,English
+japhug_sent_test_134,japhug_test_data,kɯki ni tɤjoʁa tɕe tɕendɤre ɯmdoʁ kɯɤtʂoʁloʁ tuɣi ɕti ma nɯ mɤɕtʂa mɤkʰɯ,,,"When I raised these two, (threads) of mixed colours come up, otherwise it will not work.",japh1234,Japhug,stan1293,English
+japhug_sent_test_135,japhug_test_data,kutɯtso ɯɲɯkʰɯ,,,Can you understand ?,japh1234,Japhug,stan1293,English
+japhug_sent_test_136,japhug_test_data,tɕe kɯki nɯ ma ki kɤfɕɤt me,,,"Apart from this, I don't have anything to say.",japh1234,Japhug,stan1293,English
+japhug_sent_test_137,japhug_test_data,kɯki sɤrndzo ŋu,,,This is a warping frame.,japh1234,Japhug,stan1293,English
+japhug_sent_test_138,japhug_test_data,tɕe kɯki ɯkɯspoʁ ŋu tɕe,,,"and this is its mortise,",japh1234,Japhug,stan1293,English
+japhug_sent_test_139,japhug_test_data,kɯki kɯfse ɯjaʁ nɯ ɯɲɯsɤrʁe ŋu,,,"where one inserts its arms, which is like this.",japh1234,Japhug,stan1293,English
+japhug_sent_test_140,japhug_test_data,tɕe kɤtaʁ nɯ kɯrɲɟi tɤra tɕe,,,"When one needs to weave a long piece,",japh1234,Japhug,stan1293,English
+japhug_sent_test_141,japhug_test_data,tɕe kɯrɲɟi ci tɕe ɯjaʁ nɯ pjɯwɣrʁe tɕe kuwɣtʰɯ ŋu,,,One inserts its arm (in the mortise) that is at a longer (distance) to start warping. %00:13,japh1234,Japhug,stan1293,English
+japhug_sent_test_142,japhug_test_data,kɯxtɯt tɤra tɕe tɕe kɯki tʰi cʰɯwɣscɤt tɕe,,,"When one needs a shorter one, one moves (the arm) `downwards'.",japh1234,Japhug,stan1293,English
+japhug_sent_test_143,japhug_test_data,tɕe kukutɕu atɤxtɯt qʰe tɕe kɤtaʁ nɯ kɯnɤ xtɯt,,,"If it is short here, the woven fabric will also be short.",japh1234,Japhug,stan1293,English
+japhug_sent_test_144,japhug_test_data,tɕe ɯtɤrtaʁ nɯ ɯtsʰɤt nɯ kɯkɯra ŋu ɯkɯkɯra,,,"Instead of tree branches, one (uses) these",japh1234,Japhug,stan1293,English
+japhug_sent_test_145,japhug_test_data,kɯkɯra ɯtɤrtaʁ nɯ ɯtsʰɤt ŋu,,,These are used instead of tree branches.,japh1234,Japhug,stan1293,English
+japhug_sent_test_146,japhug_test_data,nɯ ɕɯŋgɯ tɕe si ki kɯfse kɯɤrtaʁ ɲɯwɣpʰɯt pɯŋu ri,,,"Previously, one used to chop a forked tree like that,",japh1234,Japhug,stan1293,English
+japhug_sent_test_147,japhug_test_data,tɕe nɯnɯ pjɯnɯɬoʁ ɲɯɕti tɕe,,,"but it would come off,",japh1234,Japhug,stan1293,English
+japhug_sent_test_148,japhug_test_data,nɯ ɯqʰu tɕe kɯki kɯfse tɤsɯβzuta,,,Later I had it made like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_149,japhug_test_data,tɕe kɯkɯra ɯtɤrtaʁ nɯ ɯtsʰɤt ŋu,,,These are used instead of tree branches.,japh1234,Japhug,stan1293,English
+japhug_sent_test_150,japhug_test_data,kɯki sɤrndzo ɯjaʁ ŋu,,,"This is the warping frame's arms,",japh1234,Japhug,stan1293,English
+japhug_sent_test_151,japhug_test_data,kɯki sɤrndzo ɯphoŋbu ŋu,,,This is the warping frame's body.,japh1234,Japhug,stan1293,English
+japhug_sent_test_152,japhug_test_data,tɕe nɯnɯ kuwɣtʰɯ tɕe nɤkinɯ tʰɤstɯɣ kɯzri kɯra nɯ nɤki,,,"When one winds threads, the length that is needed (how long is needed), %00:43",japh1234,Japhug,stan1293,English
+japhug_sent_test_153,japhug_test_data,kɤtaʁ tʰɤstɯɣ kɯzri kɯra nɯ ʁnɯtɣa tu χsɤtɣa tu kɯβdetɣa kɯmŋutɣa tɕe tɯ ldtudɤn ʑo ŋu,,,"The length that is needed for weaving, it can be two, three, four, five handspans, more and more.",japh1234,Japhug,stan1293,English
+japhug_sent_test_154,japhug_test_data,tɕe tɯŋga ɯspa tɤŋu tɕe kɯki sɤrndzo mɤrtaʁ,,,"When it is for (making) clothes, this warping frame is not enough.",japh1234,Japhug,stan1293,English
+japhug_sent_test_155,japhug_test_data,tɕe kɯrɲɟɯ ldrɲɟi ʑo sqamnɯtɣa sqafsumtɣa sqaβdetɣa nɯ kɯfse kuwɣtʰɯ mɤɕtʂa tɯŋga kɯwxti mɤrtaʁ,,,"Unless one winds very long threads, twelve, thirteen, fourteen handspans long, otherwise it is not large enough for clothes.",japh1234,Japhug,stan1293,English
+japhug_sent_test_156,japhug_test_data,tɕe nɯnɯ nɯnɯ tɕe tɕe ki tuwɣstu cʰɯwɣrɤtɣa,,,One measures by handspans like that.,japh1234,Japhug,stan1293,English
+japhug_sent_test_157,japhug_test_data,tɕe tʰɤstɯɣ kɯra nɯ cʰɯwɣrɤtɣa tɕe,,,One measures by handspans how much is needed.,japh1234,Japhug,stan1293,English
+japhug_sent_test_158,japhug_test_data,ŋotɕu kɯra nɯtɕu tɕe tɕe ki ɯjaʁ ɲɯwɣrʁe ŋu tɕe,,,and one inserts the arm at the place corresponding to the length that is needed.,japh1234,Japhug,stan1293,English
+japhug_sent_test_159,japhug_test_data,ɯkɯki kɯki nɯ kɯβdetɣa ŋu,,,This one is at four handspans.,japh1234,Japhug,stan1293,English
+japhug_sent_test_160,japhug_test_data,aʑo atɣa xtɯt ɕti qhe ʑaʑa tuβze ɕti ma,,,"My handspan is short, it gets quickly",japh1234,Japhug,stan1293,English
+japhug_sent_test_161,japhug_test_data,ki χsɤtɣa ŋu,,,This is three handspans.,japh1234,Japhug,stan1293,English
+japhug_sent_test_162,japhug_test_data,ki tuwɣstu tɕe aʑɯɣ qhe kɯki,,,"One does like that, as for me,",japh1234,Japhug,stan1293,English
+japhug_sent_test_163,japhug_test_data,kɯki ɯro kɯki χsɤtɣa aʑɯɣ kutɕu mɯjzɣɯt,,,"there is this remainder here, my handspans do not reach here.",japh1234,Japhug,stan1293,English
+japhug_sent_test_164,japhug_test_data,χsɤtɣa tɕe tɕe kɯki kɯβdetɣa ɲɯŋu,,,"Three handspans, this is four handspans,",japh1234,Japhug,stan1293,English
+japhug_sent_test_165,japhug_test_data,kɯki kɯmŋɤtɣa ɯkɯki alɤzɣɯt tɕe kɯtʂɤɣtɣa,,,"This is five handspans, and if one reaches this one, it is six handspans.",japh1234,Japhug,stan1293,English
+japhug_sent_test_166,japhug_test_data,tɕe nɯnɯ tɕe tɕe nɤki kɤtaʁ kɤthɯ tɕe tɕe ki tuwɣstu ra tɕe tɕe,,,"One winds threads like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_167,japhug_test_data,nɤmɲaʁ ɯʁɤri kuthia tɕe apɯtɯmtɤm,,,"I will pull the threads in front of you (your eyes), so you can see.",japh1234,Japhug,stan1293,English
+japhug_sent_test_168,japhug_test_data,atʰaχɕa xcat ʑo,,,I have a lot of shed sticks !,japh1234,Japhug,stan1293,English
+japhug_sent_test_169,japhug_test_data,kɤtaʁ kɤthɯ tɕe ki tuwɣstu tɕe,,,"One winds thread like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_170,japhug_test_data,tɤri ʁnɯldʑa ki tuwɣstu ra ma,,,"one has to do like this with two threads,",japh1234,Japhug,stan1293,English
+japhug_sent_test_171,japhug_test_data,taʁ ci tuɣi pa ci pjɯɕe ra,,,"one has to come up, an the (other) one has to go down.",japh1234,Japhug,stan1293,English
+japhug_sent_test_172,japhug_test_data,tɕe ki tuwɣstu tɕe kutɕu ɯsɤsɤʑa nɯ kutɕu kuwɣβraʁ kutɕu kuwɣβraʁ ŋu,,,Its initial part is attached here like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_173,japhug_test_data,ki tuwɣstu tɕe tɕe kuwɣβraʁ tɕe tɕe,,,One attaches it like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_174,japhug_test_data,ki tuwɣstu tɕe tɕe kutɕu luwɣtsɯm ŋu,,,One brings it up here (upstream) like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_175,japhug_test_data,kukutɕu luwɣtsɯm tɕe tɕe kukutɕu ki tuwɣstu,,,One brings it up there this this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_176,japhug_test_data,ci ɯlɤwɣtsɯm tɕe kɯki pa pjɯwɣtsɯm,,,"Each time one brings it upstream, one brings this one underneath.",japh1234,Japhug,stan1293,English
+japhug_sent_test_177,japhug_test_data,ɯlocu nɯ ɣɯ tɕe tɕe,,,"And upstream,",japh1234,Japhug,stan1293,English
+japhug_sent_test_178,japhug_test_data,ŋgɤrom nɯ apɯŋu tɕe tɕe nɯ ʁnɯldʑa ma ɯtɤrtaʁ mɤra,,,"If one (weaves using the) plainweave (Danbazi \zh{单巴子}) method, only two sticks are needed,",japh1234,Japhug,stan1293,English
+japhug_sent_test_179,japhug_test_data,tʰaχtsa cho tɯtaχte nɯ tɕe tɕe kɯki kɯβdeldʑa ra,,,"If one (weaves) colored belts or (uses the) twill (Xiewenzi \zh{斜纹子}) method, four sticks are needed.",japh1234,Japhug,stan1293,English
+japhug_sent_test_180,japhug_test_data,tɕe nɯnɯ tɕe ki tuwɣstu tɕe ɯlocu nɯ tɕe ki tuwɣstu tɕe,,,"and one does like this upstream,",japh1234,Japhug,stan1293,English
+japhug_sent_test_181,japhug_test_data,tɕe ki tuwɣstu tɕe ki tuwɣstu ki kuwɣrtɤβ kɯki tɕe tɕe,,,"and one does like this, one coils (the threads) like this.",japh1234,Japhug,stan1293,English
+japhug_sent_test_182,japhug_test_data,kɤtaʁ pɯwɣtɕɤt tɕe zgrɯl ɯsɤrʁe nɯ kɯki ŋu,,,"When one takes off the threads that have been wound, this is where the coil rod is inserted. %XXX3:10",japh1234,Japhug,stan1293,English
+japhug_sent_test_183,japhug_test_data,tɕe ki tuwɣstu ŋu,,,and one does like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_184,japhug_test_data,ɯβrɤtaxtsɯɣ ma,,,"I won't hit you (with the warping frame), won't I ?",japh1234,Japhug,stan1293,English
+japhug_sent_test_185,japhug_test_data,nɯnɤrɯra je,,,Look out !,japh1234,Japhug,stan1293,English
+japhug_sent_test_186,japhug_test_data,tɕe ki tuwɣstu ŋu tɕe ki tuwɣstu tɕe,,,"One does like this, and one does like this.",japh1234,Japhug,stan1293,English
+japhug_sent_test_187,japhug_test_data,kukutɕu lɤwɣɣɯt kɯkɯreri tɕe ci ntsɯ tuwɣsɤndu ŋu,,,"Each time one brings (the thread) up here, one changes (the thread),",japh1234,Japhug,stan1293,English
+japhug_sent_test_188,japhug_test_data,kɯkɯreri tɕe ci tuwɣsɤndu tɕe,,,"one changes (the thread),",japh1234,Japhug,stan1293,English
+japhug_sent_test_189,japhug_test_data,tɕe nɯ kɯki ɣɯ ɯmdoʁ nɯnɯ kɯki ɣɯ ɯmdoʁ nɯ kɤrtaʁ tɕe tɕe,,,"When there is enough of this colour,",japh1234,Japhug,stan1293,English
+japhug_sent_test_190,japhug_test_data,ɲɯwɣpʰɯt ki tuwɣstu ɲɯwɣpʰɯt tɕe tuwɣsɤndu ŋu,,,"one snaps it like this, and one changes (with a thread of another colour),",japh1234,Japhug,stan1293,English
+japhug_sent_test_191,japhug_test_data,tɕendɤre tɤrtaʁ tɕe tɕe nɤkinɯ,,,"and when there is enough (of one colour),",japh1234,Japhug,stan1293,English
+japhug_sent_test_192,japhug_test_data,kɯki tɕe tɕe kɯwɣrum ɯmpʰru tɕe kɯɲaʁ kuwɣlɤt ŋu,,,After the white (threads) one puts black,japh1234,Japhug,stan1293,English
+japhug_sent_test_193,japhug_test_data,kɯwɣrum ɯmpʰru tɕe kɯɲaʁ kuwɣlɤt,,,"After the white (threads) one puts black (threads),",japh1234,Japhug,stan1293,English
+japhug_sent_test_194,japhug_test_data,kɯɲaʁ ɯmpʰru tɕe tɕe kɯɣɯrni li kuwɣlɤt tɕe,,,"After the black (threads) one puts red (threads),",japh1234,Japhug,stan1293,English
+japhug_sent_test_195,japhug_test_data,nɯ kɯfse kuwɣsɯɤkʰra ŋu,,,one makes it multicolored like that.,japh1234,Japhug,stan1293,English
+japhug_sent_test_196,japhug_test_data,tɕe kɯki ɯmdoʁ nɯ ʑaka tɤra tɕe,,,"When one needs each of the colours,",japh1234,Japhug,stan1293,English
+japhug_sent_test_197,japhug_test_data,tɕe ki tuwɣstu tɕe kutɕu nɤkinɯ kuwɣnɤsci,,,one changes it here like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_198,japhug_test_data,kɯki kɯwɣrum nɯ kɤjɤɣ tɕe tɕe kɯɲaʁ kuwɣlɤt ra tɕe,,,"This white (thread) is finished, and one has to put the black one,",japh1234,Japhug,stan1293,English
+japhug_sent_test_199,japhug_test_data,ki tuwɣstu tɕe tɕe kuwɣsɯɤlɤɣɯ tɕe,,,one connects (the threads) like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_200,japhug_test_data,ki tuwɣstu tɕe kɯɲaʁ nɯnɯ ki tuwɣstu tɕe,,,"One does like this, on does like this with the black one,",japh1234,Japhug,stan1293,English
+japhug_sent_test_201,japhug_test_data,li kɯwɣrum ɣɯ ɯkɤcu nɯtɕu kɯɲaʁ kuwɣlɤt tɕe,,,One puts the blacks thread next to the white one.,japh1234,Japhug,stan1293,English
+japhug_sent_test_202,japhug_test_data,tɕe kɯki tɕe tɕe ɯmdoʁ kunɤsci ŋu kɯki,,,"and it changes colour, here.",japh1234,Japhug,stan1293,English
+japhug_sent_test_203,japhug_test_data,tɕe kɯki kɯki lɤwɣtsɯm tɕe tɕe kukutɕu pa luwɣtsɯm tɕe kutɕu taʁ tuɣɯt,,,"When one takes this (thread) towards the `upstream' direction, one takes it from below (the stick), and then brings it upwards. %5:10",japh1234,Japhug,stan1293,English
+japhug_sent_test_204,japhug_test_data,tɕe ɯlocu nɯ tɕe li ki tuwɣstu tɕe,,,"and there, upstream, one does like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_205,japhug_test_data,tɕe ɯkɯki iɕqʰa cʰɯwɣtaʁ ɣɯ ɯsqar nɯ kɯre tuβze ŋu,,,and the crossing of the warp that (is used while) weaving forms here. %5:18,japh1234,Japhug,stan1293,English
+japhug_sent_test_206,japhug_test_data,tɕe li ki tuwɣstu tɕe tɕe tɕe kɯki ɯʁjar rmi,,,"One does like this, this is called the warp.",japh1234,Japhug,stan1293,English
+japhug_sent_test_207,japhug_test_data,tɕe ki tuwɣstu qʰe tɕe kɯɲaʁ nɯ li kɯkɯre tɯldʑa ma mɯkalata ma nɯnɯmaʁnɤ χsɯldʑa kɯβdɤldʑa ra,,,"One does like this. Here I only put one strand, but otherwise one needs three or four strands.",japh1234,Japhug,stan1293,English
+japhug_sent_test_208,japhug_test_data,χsɯldʑa kɯβdɤldʑa ra qʰe nɯnɯ kɤrtaʁ qʰe ɯkɯki tɤmtɯ ki ɣɯ ɯstu ri qʰe li tuwɣsɤndu qʰe li kɯɣɯrni kuwɣlɤt,,,"One needs three or four strands, and when it is enough, one changes (the thread) again at the place of this knot here, one puts the red",japh1234,Japhug,stan1293,English
+japhug_sent_test_209,japhug_test_data,nɯ kɯfse ʁɟa ʑo kuwɣtsɯm ɲɯŋu,,,One makes (takes) it like that all the way,japh1234,Japhug,stan1293,English
+japhug_sent_test_210,japhug_test_data,tɕe kɯki kɯfse ɯmdoʁ mɤkɯnaχtɕɯɣ kɯki,,,"(One gets) different colours, like this.",japh1234,Japhug,stan1293,English
+japhug_sent_test_211,japhug_test_data,ɯkɯki kɯwɣrum ki kɤjɤɣ tɕe kɯɲaʁ kuwɣlɤt nɯ ɯkɤcu tɕe kɯɣɯrni kuwɣlɤt,,,"When the white (threads) are finished, one puts black ones, and then one puts the red one.",japh1234,Japhug,stan1293,English
+japhug_sent_test_212,japhug_test_data,ɯkɤcu kɯqarŋe tɕe ki ldʑaŋkɯ nɯnɯ kɯfse kuwɣlɤt tɕe tɕe nɯnɯ,,,"Then, one puts the yellow (threads), then the green ones.",japh1234,Japhug,stan1293,English
+japhug_sent_test_213,japhug_test_data,ɯtɯdɤn tɤrtaʁ tɕe tɕe ki tuwɣstu ɲɯwɣprɤt tɕe tɕe li tuwɣsɤndu,,,"When their quantity is enough, one snaps (the threads) like this and change it again.",japh1234,Japhug,stan1293,English
+japhug_sent_test_214,japhug_test_data,li kɯmaʁ ci kuwɣlɤt,,,One puts another one.,japh1234,Japhug,stan1293,English
+japhug_sent_test_215,japhug_test_data,tɕe nɯ nɯ kɯfse ʁɟa kɯki kɯfse kuwɣlɤt ra,,,One has to put it like this all the way.,japh1234,Japhug,stan1293,English
+japhug_sent_test_216,japhug_test_data,tɕe nɯnɯ kɤtaʁ kuwɣtʰɯ ŋu,,,That is (how) one pull the threads (to prepare the) fabric.,japh1234,Japhug,stan1293,English
+japhug_sent_test_217,japhug_test_data,tɕe nɯ kɯfse ʁɟa ɕti qʰe mɤkɯnaχtɕɯɣ me ɲɯŋu,,,"It like that all the way, there isn't anything else that is different.",japh1234,Japhug,stan1293,English
+japhug_sent_test_218,japhug_test_data,tɕe ɯɲɯtɯtso,,,Do you understand ?,japh1234,Japhug,stan1293,English
+japhug_sent_test_219,japhug_test_data,tɕe kɯki ɯsqar nɯ ki tufse ŋu,,,"This is how the warp crossing is made,",japh1234,Japhug,stan1293,English
+japhug_sent_test_220,japhug_test_data,ɯkɯkɯki nɯ ɯzgrɯl ɯzgrɯl ɣɯ ɯstu ɯkɯki ɯzgrɯl ki tɕe ɯndʑu nɯ kutɕu ɲɯwɣrʁe ŋu,,,This one here is the place where the coil rod is inserted.,japh1234,Japhug,stan1293,English
+japhug_sent_test_221,japhug_test_data,tɕe nɯ ma kɯkɯra ɯrmi cʰo nɤki ɯsɤntɕʰoz nɯra kɤtɯtso qʰe nɯ ma mɤra ɣe,,,"Apart from that, you already know the names and uses (of the other parts of the loom), we don't need to (tell about) the rest, right ?",japh1234,Japhug,stan1293,English
+japhug_sent_test_222,japhug_test_data,ma tʰa nɤʑo tɯtaʁ cinɤ,,,"Otherwise, you will (start) weaving.",japh1234,Japhug,stan1293,English
+japhug_sent_test_223,japhug_test_data,tɕe xiaoma jɤɣe tɕe tɕe kɤtaʁ pjɯsɯxɕata,,,"When Xiao Ma comes, I will teach her how to weave.",japh1234,Japhug,stan1293,English
+japhug_sent_test_224,japhug_test_data,kɤrɯm nɯ tɤŋu tɕe ki tuwɣstu tɕe,,,"Concerning plying the yarn, one does it this way:",japh1234,Japhug,stan1293,English
+japhug_sent_test_225,japhug_test_data,kɯki ɣɯ ɯχto kɯki kutɕu pɕoʁ ʁe pɕoʁ tuɕe ŋu,,,Its notch here goes up to the left,japh1234,Japhug,stan1293,English
+japhug_sent_test_226,japhug_test_data,ɯχto kɯki ɯχto tukɯti ŋu,,,"Its notch, this is called the groove.",japh1234,Japhug,stan1293,English
+japhug_sent_test_227,japhug_test_data,tɕe nɯ tɯwɯ nɯ tɤŋu tɕe,,,"As for the dextro-spindle,",japh1234,Japhug,stan1293,English
+japhug_sent_test_228,japhug_test_data,ɯχto nɯ ki pɕoʁ tuɕe tɕe tuwɣlɣa ŋu,,,its notch is carved this way (counterclockwise) up.,japh1234,Japhug,stan1293,English
+japhug_sent_test_229,japhug_test_data,\#kɯki nɯ,,,“(You need) this one (the dextro-spindle)?”,japh1234,Japhug,stan1293,English
+japhug_sent_test_230,japhug_test_data,tɕe nɯnɯ mɤra nɤkinɯ,,,“No need.”,japh1234,Japhug,stan1293,English
+japhug_sent_test_231,japhug_test_data,tɕe kɯki kɤrɯm tɤŋu tɕe dìèrcì nɤkinɯ kɤrɯm tɤkɯtɯt tɕe,,,"Plying the yarn is the second step, for the plying just said,",japh1234,Japhug,stan1293,English
+japhug_sent_test_232,japhug_test_data,tɕe ki kɯfse ʁnɯ ʁnɯldʑa nɯ kɤrɯm tɕe,,,"one plies two threads of (spun) yarn together,",japh1234,Japhug,stan1293,English
+japhug_sent_test_233,japhug_test_data,ki tufse ŋu,,,"like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_234,japhug_test_data,tɕe ki ki tɯjaʁ kutɕu ki tuwɣstu tɕe,,,"on one’s hand, like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_235,japhug_test_data,tɯjaʁ ki tuwɣstu,,,like this on the hand.,japh1234,Japhug,stan1293,English
+japhug_sent_test_236,japhug_test_data,tɕe ki kɤɣɤrtɯm tɕe kutɕu ki tuwɣstu,,,"To wind yarns into a ball, you do like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_237,japhug_test_data,kɯki kɯ,,,"with this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_238,japhug_test_data,tɕe li ci tustea tɕe kɯki,,,and I do like this again.,japh1234,Japhug,stan1293,English
+japhug_sent_test_239,japhug_test_data,tɕe ki tuwɣstu tɕe kɯki kɤrɯm kɯki tufse ŋu,,,"Like this, one doubles the yarn.",japh1234,Japhug,stan1293,English
+japhug_sent_test_240,japhug_test_data,tɕe nɯ ki kɯfse nɯ tɕe ʁnɯldʑa nɯ cuō nɯ ki kɯfse luwɣsaχɕɯβ tɕe,,,"Like this, one twists two threads together.",japh1234,Japhug,stan1293,English
+japhug_sent_test_241,japhug_test_data,tɕe ki tuwɣstu tɕe luwɣrɯ luwɣrɯm ŋu,,,"Like this, one doubles the yarn.",japh1234,Japhug,stan1293,English
+japhug_sent_test_242,japhug_test_data,ki kɯki pɯ ldpɯŋu nɤ lukɤrɯm tukɯti ŋu,,,This is called plying.,japh1234,Japhug,stan1293,English
+japhug_sent_test_243,japhug_test_data,tɕe tɯjaʁ kɯ ki pɕoʁ kɯki lukɤɣɤrtɯm ki tuwɣstu tɕe,,,"With one’s hand, one winds yarns into a ball this way",japh1234,Japhug,stan1293,English
+japhug_sent_test_244,japhug_test_data,ki ki tufse ŋu,,,"Like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_245,japhug_test_data,ki tuwɣstu,,,"like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_246,japhug_test_data,kɤrɯm ɣɯ wɯrna nɯnɯ ki staʁ wxti,,,The whorl for plying (spinning?) is bigger than this one.,japh1234,Japhug,stan1293,English
+japhug_sent_test_247,japhug_test_data,tɕe kɯki staʁ wxti jaʁ,,,"Bigger, thicker.",japh1234,Japhug,stan1293,English
+japhug_sent_test_248,japhug_test_data,tɕe nɯnɯ tɯrʑi kɯ kuwɣsɯmtɕɯr kɯra ndʐa ɲɯŋu,,,As we need its weight to turn the spindle.,japh1234,Japhug,stan1293,English
+japhug_sent_test_249,japhug_test_data,tɕe nɯnɯ kɤpɣo nɯ tɤŋu tɕe nɤkinɯ smɤɣ qaʑosmɤɣ nɯnɯ kutɕu nɯkɤsaʁ nɯ ki kɯfse tɕe,,,"As for the (primary) spinning, here the teased wool is like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_250,japhug_test_data,kutɕu kundonɯ tɕe,,,"they hold it here,",japh1234,Japhug,stan1293,English
+japhug_sent_test_251,japhug_test_data,tɕe kutɕu tɕʰeme ra kɯ kutɕu nɤki qaʑorme nɯ kundonɯ,,,"the girls hold the wool here,",japh1234,Japhug,stan1293,English
+japhug_sent_test_252,japhug_test_data,kutɕu nɯ tɕe tɕe kutɕu kɯfse nɯ tɕe,,,"here like this,",japh1234,Japhug,stan1293,English
+japhug_sent_test_253,japhug_test_data,ki tustunɯ,,,they do it this way.,japh1234,Japhug,stan1293,English
+japhug_sent_test_254,japhug_test_data,ki tuwɣstu tɕe nɯnɯ pɯ ldpɯŋu nɤ nɯnɯ kɤpɣo,,,This is called (primary) spinning.,japh1234,Japhug,stan1293,English
+japhug_sent_test_255,japhug_test_data,kɤpɣo kɤrɯm nɯnɯ kɤpɣo nɯ dìyī dìyīgōngxù kɤrɯm nɯ dìèrgōngxù nɯnɯ ɲɯŋu nɤ,,,"Spinning and plying… spinning is the first step, plying is the second.",japh1234,Japhug,stan1293,English
+japhug_sent_test_256,japhug_test_data,qʰe tɕe nɯ tufse ɲɯŋu,,,It is like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_257,japhug_test_data,kɤrɯm ɣɯ nɯ kɯki sarwɯχto tukɯti ŋu tɕe,,,"For plying the yarns, this is called the laevo-spindle’s notch.",japh1234,Japhug,stan1293,English
+japhug_sent_test_258,japhug_test_data,kɯki ɯχto nɤkinɯ tɕe kɯki pɯ ldpɯŋu nɤ tɤri ki kɯfse sɤndo kɯki kɯki ɯstu ki ŋu nɤ,,,"The notch is for holding the thread like this, this way",japh1234,Japhug,stan1293,English
+japhug_sent_test_259,japhug_test_data,tɕe nɯnɯ kutɕu kutɕu pɕoʁ tumtɕɯr tɕe ki tufse ɲɯŋu,,,"Here, it winds this way (clockwise) up.",japh1234,Japhug,stan1293,English
+japhug_sent_test_260,japhug_test_data,kɯki kɯki pɯ ldpɯŋu nɤ kɤpɣo ɣɯ ɲɯŋu tɕe,,,"As for (primary) spinning,",japh1234,Japhug,stan1293,English
+japhug_sent_test_261,japhug_test_data,kɤpɣo ɣɯ ɲɯŋu tɕe kɯki pɕoʁ kɯki li kɯki ɯχto ŋu tɕeri,,,"for (primary) spinning, the notch goes this way (counterclockwise),",japh1234,Japhug,stan1293,English
+japhug_sent_test_262,japhug_test_data,nɯ ki pɕoʁ tuɕe tɕe ki kɯfse kundɤm,,,"it goes this way (counterclockwise) up, and holds (the yarn) like this.",japh1234,Japhug,stan1293,English
+japhug_sent_test_263,japhug_test_data,nɯ mɤɕtʂa mɤndɤm,,,"Otherwise, it won’t hold.",japh1234,Japhug,stan1293,English
+japhug_sent_test_264,japhug_test_data,amɤnɯmbɣaʁ ra matɕi mɤndɤm,,,"It cannot be reversed, or it won’t hold the yarn.",japh1234,Japhug,stan1293,English
+japhug_sent_test_265,japhug_test_data,tɕe kɯki ki pɕoʁ tumtɕɯr ŋu,,,It winds this way (counterclockwise) up.,japh1234,Japhug,stan1293,English
+japhug_sent_test_266,japhug_test_data,kɤrɯm ɣɯ nɯ tɤŋu tɕe ki pɕoʁ tumtɕɯr ŋu,,,"As for the plying’s (notch), it goes this way (clockwise) up.",japh1234,Japhug,stan1293,English
+japhug_sent_test_267,japhug_test_data,tɕe nɯnɯ ɕti wo,,,It is like this.,japh1234,Japhug,stan1293,English
+japhug_sent_test_268,japhug_test_data,\#nɤj kɯki kɤpɣo ɣɯ ki turtaβa je,,,Shall I wind (yarns onto) this spinning (dextro-)spindle?,japh1234,Japhug,stan1293,English
+japhug_sent_test_269,japhug_test_data,mɯjra ma kɯki tɤste qʰe ɲɯɕti ma ɲɯnaχtɕɯɣ ɕti,,,No need. You do it and it will be the same.,japh1234,Japhug,stan1293,English
+japhug_sent_test_270,japhug_test_data,nɯnɯ qūbié tɤtɯta,,,I have told the difference.,japh1234,Japhug,stan1293,English
+mukri_sent_002,mukri_data,yānī eme dēī kēm pē dełēīn köredē,,,"That is, we call a small village a “köredē” [lit. blind village].",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_003,mukri_data,le ew köredēeī herčend deīkird be berātekeī xoy be_ře nedečū,,,"In this tiny village, whatever he did, he was not able to make a living with his earning(s).",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_004,mukri_data,yānī be huqūqīyeī xo be_ře nedečū,,,"That is, he could not make a living with his salary.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_005,mukri_data,herčend fikrī lē dekirdewe hīč fāydeī nebū,,,"No matter how much he thought about it, it was of no use.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_006,mukri_data,nejāřēkīšī lē bū,,,A carpenter was also there (in the village).,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_007,mukri_data,nejāřekeīš kutī kuře jā ewe emin čāwm le kāk miħemedī bē,,,"The carpenter said: Man, if I am to wait for Mr. Muhammed,",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_008,mukri_data,āmūrekeī biškē,,,(until) his plough breaks.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_009,mukri_data,āmūr dezānī čīe,,,"You know what an “āmūr” is, don’t you?",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_010,mukri_data,eweī gā jūtī pē dekeā,,,That with which the ox ploughs.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_011,mukri_data,dā_xwā āyā de řožē dā emin āmūrēkī hełbestm,,,"How come, whether I repair one plough a day,",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_012,mukri_data,emin be eweī be_ře nāčm,,,I cannot make a living by this.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_013,mukri_data,xeyātēkīšī lē bū,,,There was also a tailor.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_014,mukri_data,xeyāteke hersēkyān kewtne kin ēk hersēkyān,,,"The tailor, all three gathered together [lit. fell next to each other].",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_015,mukri_data,kutī eme tedbīrēkī bo xomān bikeīn,,,"He said, We shall take measurements for ourselves.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_016,mukri_data,xo eto ne be ew berāte be_ře dečī,,,"Evidently neither you can make a living with this earning(s) (of yours),",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_017,mukri_data,ne emin be ew xeyātīe be_ře dečm,,,"nor can I make a living with this tailoring,",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_018,mukri_data,ne etoīš be ew nejāřīe be_ře dečī,,,nor can you make a living with this carpentry.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_019,mukri_data,kutī či bikeīn čāke,,,He said: What would be good to do?,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_020,mukri_data,kutī wiłāhī mil denēīn le qāčāxčīyātīē,,,"He said: By God, we will put our hand to smuggling.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_021,mukri_data,yēk dełē qāčāxčī yēk dełē tujāřet,,,"One says smuggling, one says trade.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_022,mukri_data,tujāřetē bā bičīn tujāřetēkē bikeīn,,,"Trade, we should go do trading.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_023,mukri_data,kutī hestān řoyīštn,,,"It is said, they stood up (and) left.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_024,mukri_data,wānēkēkyān kird,,,They did thingummy.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_025,mukri_data,āyā her šitēkī we gīryān kewt yān we gīryān nekewt,,,Whether they got hold of any thing or they did not get hold of (any thing).,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_026,mukri_data,hātn le čolēkī mānewe čol,,,They came (and) stayed in a desert.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_027,mukri_data,čol dezānī čīe,,,"“Čol”, you know what it is?",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_028,mukri_data,čolge yānī hīč kes lē nebū,,,"“Čolge”, that is, nobody was there.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_029,mukri_data,de xeter dāe,,,It’s dangerous.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_030,mukri_data,ewe eger dizēk četeēk dizēk biē,,,"That’s if a thief, a bandit, a thief comes over,",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_031,mukri_data,ewāne jānyān de xeter dāe,,,"these, their life is in danger.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_032,mukri_data,herči māłēkī pēyān bē lēyān destēnn,,,"Whatever things may be with them, they will usurp (i.e. take).",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_033,mukri_data,kutī wā čāke dūmān binūīn yēkmān nīgābānīē bikēšīn,,,He said: The best is (that) two of us sleep (and) one of us guards.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_034,mukri_data,eme čwār neferīn le ēre dā,,,"We are four people in here,",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_035,mukri_data,welī ewān sē nefer būn,,,but they were three people.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_036,mukri_data,yēkyān kutī emin dū sāʕetān nīgābānī dekēšm engo binūn,,,One of them said: I shall guard for two hours (and) you sleep;,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_037,mukri_data,ewī dīkeyān kutī dūwā emin hestēne,,,"the other one of them said: Later on, wake me up.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_038,mukri_data,ewī dīkeīš kutī dūwā emin hestēne,,,"The other one also said: Later on, wake me up.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_039,mukri_data,būne sē pās,,,Three shifts were set up.,mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_040,mukri_data,ħerzt bikem nejāř noreī hāt,,,"Let me tell you, the turn of the carpenter came.",mukr1239,Mukri Kurdish,stan1293,English
+mukri_sent_041,mukri_data,nejāř noreī hāt,,,"The turn of the carpenter came (and) (lit. the carpenter, his turn came),",mukr1239,Mukri Kurdish,stan1293,English
+tsou_sent_test_000,tsou_test_data,"pan to mo cihi ci,_ mo ake'i mameoi ci hahocngʉ.",,,There was a somewhat old man.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_001,tsou_test_data,"moso toa to,_ beahci to,_ bʉnʉvhʉ.",,,(He) was picking plum.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_002,tsou_test_data,"mo, pan to mo sucaefi ci mo, eakako to, eangi ci hahocngʉ.",,,There was a man pulling a goat passes by.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_003,tsou_test_data,"o'a isi maka, mi'usni. mo asonʉ,_ angu 'anana'o ho mo toa.",,,He didn't even paid him attention because of his hard working on picking.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_004,tsou_test_data,"oh,_ mo asngʉc, toa,_ ho mʉ isi teapha na ito, fucu na ito,_ to isi,_ ngovei to sʉnʉsi. ci ci fucu o 'o isi toai ci beahci.",,,"He didn't stop, and put (the fruit) into the bag that was hung on his neck.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_005,tsou_test_data,"ho micu ngangcʉngcʉ mo eu'sipeohʉ. to evi ho,",,,He climbed down the tree when it (the bag) was full.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_006,tsou_test_data,"ho sia ^to, oh sia to isi,_ ah to tesi sii ci,_ <L2JkhagoL2J>.",,,And put (the fruit) in the basket.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_007,tsou_test_data,"ho i ivaho eu'sipepe ho, toa to, beahci to bunʉvhʉ.",,,He then climbed up again to pick plum fruit.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_008,tsou_test_data,"ne.aomane micu, pan to mo sucaefi ci mo, eon to jidensa ci 'o'oko no hahocngʉ.",,,"For a while, there was a boy riding a bike passed by.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_009,tsou_test_data,"mo tos mo tosvo to, to isi sii to beahci, to isi toai.",,,He stopped where the gathered fruit was put/laid.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_010,tsou_test_data,"ia siai, isi asona na'na tata'za ho, isi, aha'va, cono hafa 'o mo eon to, <L2JkhagoL2J> ci,_ beahci ho,",,,"He probably wanted to have the fruit, and took one basket of fruit away.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_011,tsou_test_data,ho cu sia to jidensa ho mongoi.,,,Put it on the bike and left.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_012,tsou_test_data,"o'a isi maka cohivi na ito, mo toa ci mo asonʉ angu./ 'anana'o.",,,"It wasn't noticed at all (by the old man), because he was so devoted to the picking of the fruit.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_013,tsou_test_data,"i'o oko no hahocngʉ. isi cu hafa 'o mo, ah, 'o mo cono khago ci beahci ho,_ ho eon to jidensa u ho mongoi.",,,"The boy loaded the basket of fruit, and left on his bike.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_014,tsou_test_data,"aomane mo eupteʉlʉ 'o mo cihi ci mo maezo eon to jidensa ci, mamespingi ho,",,,"A while later, he met a girl who was also riding a bike.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_015,tsou_test_data,"te eupa,_ zou eupaeupteʉlʉ.",,,"(They) will.... That is, met each other.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_016,tsou_test_data,"isi apemza mi'usni na ito hahocngʉ 'o, mamespingi ho mo, eupteʉlʉ.",,,"When they came across, the boy was looking at the girl devotedly.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_017,tsou_test_data,"ci ma mo, akameosʉ isi, ta'poepuza na ito, na i'o, ceopungusi na ito, hahocngʉ. micu supeohʉ,",,,Why in a sudden the hat of the boy was blown away by wind. The hat fell.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_018,tsou_test_data,"'a isi maka, aiti ho mo ea, fatua 'o, 'o ntesi mia,",,,It was seen that there was stone in the way which he would go.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_019,tsou_test_data,"micu efʉ, micu smoftongʉ to fatu ho smop^cuku.",,,He bumped into the stone and fell down.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_020,tsou_test_data,"'a te alʉ, alʉ, supeohʉ omp cono supeohʉ na 'o beahci ci isi, ci isi ea ci, beahci to, na ito bʉnʉvhʉ.",,,The (basket) of plum he took fell.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_021,tsou_test_data,"moh, micu mongoi ^'o, 'o 'oko no mamespingi.",,,The girl left.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_022,tsou_test_data,"eh, mo eusuhngu to ceoa ho,_ 'o mo smopcuku ci hahocngʉ ho eh, ho aiti 'o t'angosi mo asonʉ, isi asona sʉlʉi ho, 'o t'angosi ho mo, asonʉ congo.",,,"It probably hurt his feet, and it probably was painful.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_023,tsou_test_data,mo esmi 'o mo teyu ci 'o'oko no hahocngʉ.,,,Then there arrived three boys.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_024,tsou_test_data,"ihe 'so to'usni ho, zou ivaha teapha to, khago na 'o, 'o mo aemo'ʉ ci, ci beahci ci, beahci ci, beahci no bʉnʉvhʉ.",,,They helped put the spilt plum fruit again into the basket.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_025,tsou_test_data,"hos, ho cu, zou, soveia ho t na i na ito, jidensa nai, na ito isi, eoni to hahocngʉ. to oko no hahocngʉ.",,,And.. then...loaded them back onto the bike ridden by the boy.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_026,tsou_test_data,"ho micu, micu ivaho e'ohʉ. eupevai om 'o mo tueu./",,,"The three boys left (him), and went on...",tsou1248,Tsou,stan1293,English
+tsou_sent_test_027,tsou_test_data,"ho ivaho e'ohʉ o ho, 'o mo, eon to jidensa ci hahocngʉ.",,,And then... He went on again on his bike..,tsou1248,Tsou,stan1293,English
+tsou_sent_test_028,tsou_test_data,"iama isi ta'paeo'a 'o, ta'paeo'a eaa 'o,_ 'o ceopngu na ito,_ 'o isi apeoha.",,,"Alas, his hat was forgot. The hat was dropped by him.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_029,tsou_test_data,"isi elʉa na ito mo tueu ci hahocngʉ ho,",,,And it was discovered by the three boys.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_030,tsou_test_data,"eo, o, esohueu ho,",,,"(They) whistled (at him, the boy riding a bike).",tsou1248,Tsou,stan1293,English
+tsou_sent_test_031,tsou_test_data,"euoveia 'o, 'o mo cihi ci hahocngʉ ho eoveineni 'o pu ceopngu.",,,"One of the boys returned, and returned the hat to the boy.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_032,tsou_test_data,"isi, fii to mo tueu ci,_ beahci to bʉnʉvhʉ.",,,He gave three plums (to the three boys).,tsou1248,Tsou,stan1293,English
+tsou_sent_test_033,tsou_test_data,"ho micu,_ mongoi.",,,(The boy given pears) left.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_034,tsou_test_data,ivaho mo'unu maica.,,,(He walked) toward the direction of his accompany.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_035,tsou_test_data,"i'o mo tueu ci hahocngʉ mo mah ^to, eh,_ isi faeni to oko no hohac hahocngʉ ci, ci beahci.",,,The three took the pears given.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_036,tsou_test_data,"ho sucaefi to ^mo, toa,_ toa to, ah,_ toa, toa to beahci no bʉnʉvhʉ ci, ci hahocngʉ.",,,and passed the one that picked..picked pears/plum fruit.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_037,tsou_test_data,micu sipeohʉ 'o hahocngʉ.,,,Then the man climbed down.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_038,tsou_test_data,"ne mio, isi cu, aoma'va cohivi.",,,And (he) finally learned.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_039,tsou_test_data,"mo nana uvo 'o osi auva s,_ auva, pangangcʉngcʉa ci osi toai.",,,Where on earth had the previously picked fruit that was full gone?,tsou1248,Tsou,stan1293,English
+tsou_sent_test_040,tsou_test_data,"mo aʉlʉ esmi 'o mo tueu ho mah to mo, macici m, macoconi to mo, to conci, beahci.",,,"There happened to arrive three (boys), each with a pear.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_041,tsou_test_data,"isi at'ingha no eainca,",,,He just thinks...,tsou1248,Tsou,stan1293,English
+tsou_sent_test_042,tsou_test_data,"ci,_ isi asona eainca no to'tohʉngʉsi._ isi ihe nana eaa.",,,that it probably his thinking that they took (them).,tsou1248,Tsou,stan1293,English
+tsou_sent_test_043,tsou_test_data,"mo c'o maica 'e si, 'e os'o aiti.",,,What I just saw was just like that.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_044,tsou_test_data,"pan no moso, cihi ci oko no hahocngʉ.",,,There was a boy.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_045,tsou_test_data,"moso n'a na'no kaebʉ ho mo,_ uh no,_ <L2JtonaliL2J>si ho, noepohʉ na oko no mamespingi ho,_ pespak'i.",,,(He) liked to go to his neighbor and played with a girl.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_046,tsou_test_data,"ina oko no mamespingi, moso n'a na'no kaebʉ emʉm'ʉ no,_ bʉvnʉ. mav'ov'o ci bʉvnʉ.",,,"The girl liked to grow flowers very much, all kinds of flowers.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_047,tsou_test_data,"ina nia nana to'tohʉ no oko no mamespingi. osi n'a la eainca, ta'u la peongcʉngci no,_ mo mav'ov'o ci bʉvnʉ 'e pahpaesa ta maemoemo.",,,"The girl thought that ""I would grow all kinds of flowers around every house.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_048,tsou_test_data,mohcu la sio bankake._,,,(They) therefore grew up.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_049,tsou_test_data,"'iama osi la ʉmnʉa no,_ oko no hahocngʉ na mamespingi.",,,"Unexpectedly, the girl was loved by the boy.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_050,tsou_test_data,"mohcu la maica, mimimio._ <XpoteliX> ma te pasunaeno na 'oko no hahocngʉ.",,,"It was like this, (they) played, and unexpectedly the boy would sing.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_051,tsou_test_data,"'iama lasi s'a ʉmnʉa ho osi ta'lʉi no, oko no mamespingi na mo con ci pasunaeno.",,,"Unexpectedly, (he) loved the girl, and the girl heard a song.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_052,tsou_test_data,osi cu pasunae._ mohcu asngʉcu pasunaeno maita'e._,,,(He) just kept singing like this.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_053,tsou_test_data,"te mainenu mohcu,_ atavei, mi'usnu no oko no mamespingi 'e oko no hahocngʉ ho eainca,_",,,"Somehow the boy finally turned to the girl and said,",tsou1248,Tsou,stan1293,English
+tsou_sent_test_054,tsou_test_data,'a ma te'o vcongʉ su?/,,,"""May I marry you?""",tsou1248,Tsou,stan1293,English
+tsou_sent_test_055,tsou_test_data,"eh,_ mohcu maica,",,,Just like this.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_056,tsou_test_data,isi cu engha ho eainca ma te'o vcongʉsu.,,,"He just says, ""may I marry you?""",tsou1248,Tsou,stan1293,English
+tsou_sent_test_057,tsou_test_data,osi cu eaeza ʉmnʉa no oko no mamespingi.,,,The girl also liked (him).,tsou1248,Tsou,stan1293,English
+tsou_sent_test_058,tsou_test_data,"mici nana,_ mipeohʉ mi'unu no peohna manci nana,_",,,(He/They) looked downward.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_059,tsou_test_data,"teolʉ no mo eon no,_ eon no aaskiti no va'hʉ ci oko no mamespingi ho mongsi.",,,Somehow (they) saw a girl who was at the side of the river and cried.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_060,tsou_test_data,ihe cu nana usa ho aiti ho tuocosi. ho eainca manci s'a ac'o mongsi. si eainca no oko no mamespingi. 'a mio eon ta va'hʉ ho tufku._,,,"The girl said, ""I washed clothes by the river.""",tsou1248,Tsou,stan1293,English
+tsou_sent_test_061,tsou_test_data,"isi hafa to chumu 'o mo coni,_ ci yʉsʉ'u.",,,"""Water took away one of my clothes.""",tsou1248,Tsou,stan1293,English
+tsou_sent_test_062,tsou_test_data,os'o na'na ucia ivaha eaa._,,,"""I wanted to get it back very much.""",tsou1248,Tsou,stan1293,English
+tsou_sent_test_063,tsou_test_data,"maene 'o oko no hahocngʉ, isi cu aupciva peobanga 'e yʉsʉ ho,",,,"The boy hence in a hurry chased the clothes carried away by the water, and,",tsou1248,Tsou,stan1293,English
+tsou_sent_test_064,tsou_test_data,"tasvoveia 'e isi hafa ta chumu ci,_ ci yʉsʉ. ci XX moso ngohcu._",,,took back the clothes which had been taken away by the water.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_065,tsou_test_data,"XXXXX 'oko no mamespingi. ina 'e 'oko no mamespingi ci moso tufku, isi ʉmnʉa 'e hahocngʉ eainca, 'a os'o na'no ʉmnʉa na su.",,,"The girl who washed clothes loves the boy and says, ""I love you very much.""",tsou1248,Tsou,stan1293,English
+tsou_sent_test_066,tsou_test_data,"at'inghi 'e hahocngʉ isi esansana ho eainca, 'a pan to os'o cu 'so ʉmnʉa ci 'oko no mamespingi._",,,"But the boy clearly says, ""there is already a girl who was loved by me.""",tsou1248,Tsou,stan1293,English
+tsou_sent_test_067,tsou_test_data,"'o la na'no,_ kaebʉ ho mo emʉm'ʉ to bʉvnʉ._ ko'ko eno o'a te'o tiova na su.",,,"""The one who always likes growing flowers very much. Therefore, I will not accept you.""",tsou1248,Tsou,stan1293,English
+tsou_sent_test_068,tsou_test_data,te'o ec'ʉha tan'e.,,,I just stop here.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_069,tsou_test_data,"uvo na maica ci,_ ha'o ucia paehohamo ta mo maica.",,,"Unexpectedly, (they) want me to tell a story.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_070,tsou_test_data,"ehng,_ te'o n'a,_ ahtu n'a ehohamo maitan'e.",,,"Rarely, I will tell a story today.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_071,tsou_test_data,"ehng,_ moso la cihi ci oko, ho mo con ci av'u moso la, aʉ aʉt'ʉcʉ to, aʉt'ʉcʉ to mo conci fok'unge yon ta'e <M meihua M> te'o engha, <@te ake'i ʉmnʉ ci yaei@>",,,"A boy and a dog raised a frog. Meihua, I'm somewhat easily moved (to tell a story).",tsou1248,Tsou,stan1293,English
+tsou_sent_test_072,tsou_test_data,"i'o mo con ci oko ho i'o mo, eh, ieh mo maezo aʉt'ʉcʉ ta mo con, coni ci av'u.",,,A boy raised a dog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_073,tsou_test_data,"ehm, ah, mo, moso la,_ noepohʉa 'e av'u ho oko,/ moso la aʉt'ʉcʉ to fo'kunge.",,,The boy and the dog raised a frog together.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_074,tsou_test_data,"<Xmoso alʉhiX> mohcu noana'o feungna, noana'o feungna ne moso la oengʉtʉ manci s'a,",,,"One night, it was very late when (people) had slept.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_075,tsou_test_data,"ohe la 'so teapha to pania to mo,_",,,Why (did he) put (the frog) in a container?,tsou1248,Tsou,stan1293,English
+tsou_sent_test_076,tsou_test_data,"to mo c'o o^kosi ongayo to mo, isi,_",,,The bottle neck is so small.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_077,tsou_test_data,"temza peelʉi enca hu,_ eh, te av'an av'a no kokugo.",,,How do (people) say that in Mandarin?,tsou1248,Tsou,stan1293,English
+tsou_sent_test_078,tsou_test_data,av'a no cou 'e sin 'e pania.,,,How do (people) describe the bottle in Tsou?,tsou1248,Tsou,stan1293,English
+tsou_sent_test_079,tsou_test_data,"uN isi peelʉi,_ hupaezuma ci pania.",,,The bottle is the bottle which can be seen through.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_080,tsou_test_data,"eh mohcu oengʉtʉ ne moso noana'o feʉngna, oengʉtʉ ne moso noana'o feʉngna manci,_ mohcu 'so maezo oengʉtʉ si av'u./ i'o av'u ci ihe aʉt'ʉca, isi aʉt'ʉca ta oko ci av'u,",,,"One evening, (the boy) went to sleep. The dog went to bed with him-- the dog which he raises.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_081,tsou_test_data,"manci s'a yuyafo 'o fo'kunge,",,,Why did the frog come out?,tsou1248,Tsou,stan1293,English
+tsou_sent_test_082,tsou_test_data,"mohcu pkaako mi to ngayo to pania 'o, 'o fo'kunge ho pkaako.",,,The frog had escaped from the mouth of the container.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_083,tsou_test_data,"ohe cu 'so, micu 'so yʉc'ʉ 'e oko.",,,The child rose.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_084,tsou_test_data,"ihe cu isi cu ake'a, isi cu cohivi ho mo pkaako av'u i'o fo'kunge,",,,"And they just somewhat ... He knew that dog, (no, it's) the frog escaped.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_085,tsou_test_data,micu maezo nac'o si av'usi isi 'so aiti 'o fo'kunge micu uk'a na 'a lasi no 'so na.,,,"The dog felt very sad, because it saw the frog escaped.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_086,tsou_test_data,na'na ʉmnʉa ta av'u 'o fo'kunge.,,,The dog also liked the frog very much.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_087,tsou_test_data,micu nac'o icu i'poepoha i'eima ta oko ho ta av'u 'o fo'kunge.,,,"It felt very sad, and went to look for the frog together with the boy.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_088,tsou_test_data,isi 'so aka ucia. ta'totothomʉneni ta av'u 'o fo'kunge ho eainca mo s'a yonenu.,,,The dog kept on thinking where the frog had gone.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_089,tsou_test_data,ta'una'na moso yon ta pania.,,,The dog thought that (the) from stayed in the bottle.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_090,tsou_test_data,"isi cu 'so,_ payuoyo ta pania ta av'u 'o fnguusi.",,,The dog made its head enter into the container.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_091,tsou_test_data,"isi fnguusi ho eainca, te'o n'a a'ʉmta ala esansana mio nana aʉmtʉ alʉ pkaako ta pania._",,,The dog thought that I have to make sure and find whether it was really gone.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_092,tsou_test_data,"isi cu 'so hooyoeveni ta yoni to fo'ku yoni to fo'kunge 'e,_ 'o fnguu to av'u manci 'so ^cʉnghʉ,/",,,The dog inserted it head into (the container) where the frog (used to) stay.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_093,tsou_test_data,"cu o'tena peelʉi le,_ o'tena peelʉi empuisi ta fnguu ta sʉngʉsi yon eh, i'o ngayo to pania msi isi cu c'o asʉngʉca haahafa si,",,,The dog can't take pull its head at the neck of the bottle from the mouth of the bottle.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_094,tsou_test_data,i'o osi yoni to fo'kunge ci pania.,,,It just always carried the bottle where the frog lived.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_095,tsou_test_data,"eh m, 'a isiz 'a isi no 'so peelʉi hucaefiza ko'ko a, eN en,_ amcu mo aʉlʉ eainca o'te bohngʉ isi c'o n'a asngʉca peelʉi teolʉi 'o isi mia.",,,"Because (the container) was transparent, the dog still could see the path it walked.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_096,tsou_test_data,"micu cʉng casngʉcʉ cʉnghʉ ta fnguu ta av'u si pania ho,",,,The dog got its head stuck in the container.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_097,tsou_test_data,"ho mo yuyuso si,_ si oko ho 'i'ima 'o,_ ohe payoa ci,_ fo'kunge._",,,The dog looked for the lost frog together with the boy.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_098,tsou_test_data,"ohe la aʉt'ʉca ci fo'kunge na'no ma'na'nac'o ho mimimio to,_ fʉengu ho bibimi. mimimio to fʉengu ho 'i'ima 'o ohe la aʉt'ʉca ci fo'kunge._",,,They went to look for their pet frog in the mountains. They were very distressed (when they thought of their frog.),tsou1248,Tsou,stan1293,English
+tsou_sent_test_099,tsou_test_data,"'iama micu aʉlʉ uh to mo aʉlʉ, aʉlʉ 'e'evi.",,,(They) went to (a place) full of trees.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_100,tsou_test_data,"manci pan to ihe teolʉi ci mo tmiehi to, to evi ci,_ zou cuma,",,,They unexpectedly saw (something) hanging on the tree. What is that?,tsou1248,Tsou,stan1293,English
+tsou_sent_test_101,tsou_test_data,"ci cu,_ taot'ova ta, taot'ova ta av',_ to av'u 'o 'o evi manci 'so supeohʉ 'iama,_ <WHisi cuWH>, tapeoha 'o ceoyu micu,_ meobango ta av'u, meobango to av'u 'o ceoyu.",,,The bees chased the dog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_102,tsou_test_data,"'a mo no ne mio 'o oko isi yaeza aiti 'o, pan to isi ai aiti ci fo, ci feongo.",,,"At that time, the child also saw.... He saw a hole.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_103,tsou_test_data,i ta'una mo s'a noaemonʉ to feongo f i'o fo'kunge 'iama buhci 'o mo smoyafo.,,,"He thought that the frog was inside the hole. Unexpectedly, it is a mouse that appeared from the hole.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_104,tsou_test_data,"isi cu tapeoha to av'u 'o ceoyu micu maezo smoyafo 'o buhci ho maezo,_ toekameosʉ micu cocapo to evi 'o._",,,The dog has shaken down the bee hive. The mouse also moved out and escaped.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_105,tsou_test_data,"i'e oko ho, mainca te totoefʉngʉ pan to isi, isi enca te totoefʉngʉ pan to isi yaeza aiti to evi ci feongo.",,,"The boy climbed the tree to hide (from something). He hided, and saw a tree hole.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_106,tsou_test_data,"isi cu aeza teʉ'tʉmi mo nana noaemonʉ na 'o, ^'o fo'kunge ((CLEAR THROAT)).",,,He also looked for the frog; see if it was in the tree hole.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_107,tsou_test_data,"eheN ne.mio micu toekameosʉ si av'u 'iama isi,_ peobanga ta casngʉca, peo peteokukuyungva ta ceoyu._",,,"At that time, the dog also escaped, because the bees kept chasing it.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_108,tsou_test_data,"cu smoyo 'e oko,_",,,The child was afraid.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_109,tsou_test_data,"tiisi'hi to evi ho supeohʉ man,_",,,The hands holding the tree branch got loosen and the child fell.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_110,tsou_test_data,"'iama manci s'a 'i'imi to isi yoni to oko 'e,_ i'e to isi yoni to eʉ, yoni,_ to oko ci evi 'o mo feongo to evi ho 'i'imi to ic'o smoyafo 'o i'o puku,/ puku ci zomu,/",,,"Unexpectedly, from the tree, where the child was climbing, the tree hole appeared an owl.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_111,tsou_test_data,"ne.mio micu,_ toesos'o 'o puku ho meiavovei./",,,The owl flew everywhere.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_112,tsou_test_data,"isi n'a asngʉca 'i'eima ta oko 'o fo'kunge,_ micu cocapo to evi ho mici tieo'pʉ to,_",,,The boy kept looking for the frog. He climbed up a tree and wanted to grab a tree branch.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_113,tsou_test_data,"mathʉthʉcʉ to mo eon to,_",,,the tree log at...,tsou1248,Tsou,stan1293,English
+tsou_sent_test_114,tsou_test_data,"eN ma'e'evi 'o oko no,_",,,"many trees, which is small on,...",tsou1248,Tsou,stan1293,English
+tsou_sent_test_115,tsou_test_data,"nia mathʉthʉcʉ no evi,",,,the remnants of trees,tsou1248,Tsou,stan1293,English
+tsou_sent_test_116,tsou_test_data,"isi o'te yu'ia 'o isi enca thʉcʉ,_",,,He didn't see clearly about what he thought as tree branches.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_117,tsou_test_data,"'iama sungu ^no 'ua,_",,,"Unexpectedly, it was the antler of a deer.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_118,tsou_test_data,"'iama sungu no 'ua micu 'so yu, micu bochio 'o 'ua isi cu 'so,_",,,"Unexpectedly, it was the antler of a deer. Therefore... Then he knew it's a deer.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_119,tsou_test_data,"micu yʉc'ʉ 'o 'ua manci 'so au'la oc'ocic'o ngoevi ta 'ua micu c'o,",,,The deer rose and somehow it just coincidently shouldered the child.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_120,tsou_test_data,"mʉfkʉe to sungu to 'ua 'e oko ho,_",,,The boy was just hanging on to the deer's antlers.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_121,tsou_test_data,"isi cu hafa ta 'ua ho smo'unu maica, isi cu a'la t'ngisi ta av'u isi cu aiti isi hafa ta 'ua 'e,",,,"The dog even cried for this, (because) it saw the child was carried by the deer.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_122,tsou_test_data,"i'e oko lasi 'so na'na ʉmnʉa ta av'u 'e, i'e la i'e oko,/",,,The dog liked this child very much.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_123,tsou_test_data,"isi cu hafa ta 'u,_ 'ua mo smo'unu mainca. maica.",,,The deer just carried (the child) and run to somewhere.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_124,tsou_test_data,"'iama tesi,_ hafa uh to mo,_ to mo tʉ'nʉ ho,",,,"Unexpectedly, the deer just took them running toward the cliff.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_125,tsou_test_data,cu supeohʉ 'e oko maezo supeohʉ si av'u 'a moso na'no smomacongo._,,,"And then, the child fell. The dog also fell. It is because it ran too fast.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_126,tsou_test_data,"ho,_ 'iama te ^su' to mo fozu ci chumu.",,,"Unexpectedly, they fell into deep water.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_127,tsou_test_data,ma mo na'no eo'ngʉngʉ 'o isi su'si.,,,The dog and the child fell into very deep water.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_128,tsou_test_data,abohtʉ o'a mo alolongʉ. mo aepohʉ su' to chumu 'e av'u ho oko./,,,Luckily they were not injured. Both of them fell into the water.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_129,tsou_test_data,"micu yon to chumu ho,_",,,They just stay there.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_130,tsou_test_data,"'iama panto ihe aiti ci mo oko no evi ci mo, ci mo measkoskopʉ to chumu ho eainca,",,,"They saw there was a small tree log floating on the water. And they thought,",tsou1248,Tsou,stan1293,English
+tsou_sent_test_131,tsou_test_data,"s'a mo s'a yon ta, noaemonʉ ta evi na 'o, 'o ito 'i'ima ci fo'kunge isi cu eainca 'o mi'unu ta av'u ho eainca o'te ptaʉngʉ.",,,whether the frog they are looking for was inside the tree. The boy told his dog not to be noisy.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_132,tsou_test_data,"cu i'eima, isi cu bumemeala i'eima.",,,(They) just looked for (the frog) very carefully.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_133,tsou_test_data,"'ia manci, manci s'a eelʉ to mo yuso ci, meoi no fo'kunge.",,,Surprisingly they saw two big frogs.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_134,tsou_test_data,"cu a'ʉmtʉ na'no yamci ho eainca,",,,"(He) was very surprised and said,",tsou1248,Tsou,stan1293,English
+tsou_sent_test_135,tsou_test_data,"'iama mo ((CLEAR THROAT)), 'iama mo ^yon tan'e lato i'e,_ i'e, la aka 'i'eima ci fo'kunge.",,,The frog which we kept looking for was here.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_136,tsou_test_data,cu 'so angu angu na'no aveoveoyu. na'no aveoveoyu.,,,The boy was very glad.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_137,tsou_test_data,"isi,_ isi cu aiti manci s'a na'no man'i 'e fo'kunge cu i,",,,He saw.. Why there were so many frog?,tsou1248,Tsou,stan1293,English
+tsou_sent_test_138,tsou_test_data,"cu a,_ manci s'a yuso 'e mo e, 'e mo meoi no fo'kunge ho alʉ, enepio 'e mo, 'o'oko no fo'kunge._",,,"Why there were two big frogs, and unexpectedly... (there were) so many small frogs.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_139,tsou_test_data,"'a isi cu, isi cu m, micu 'so angu kaebʉ micu mitachumu ho,_",,,"Since he was so glad as to walk across the water and,",tsou1248,Tsou,stan1293,English
+tsou_sent_test_140,tsou_test_data,"tehe cu 'usa 'e 'o'oko no fo'kunge mo bitoyange to evi ho,_",,,(He would) go to the place with many small frogs. (These frogs) were sitting in line.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_141,tsou_test_data,"ho i'e,_ 'e nan eh asonʉ,_ mo meoi no fo'kunge asonʉ inosi ho amosi ta,_ 'o'oko no fo'kunge.",,,Maybe the two big frogs were the parents of the small frogs.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_142,tsou_test_data,"micu angu kaebʉ,_",,,The child was too happy.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_143,tsou_test_data,"manci s'a meelʉ aomotʉ'ʉ 'e i,/",,,"Why would the frog say,",tsou1248,Tsou,stan1293,English
+tsou_sent_test_144,tsou_test_data,"'e ^fo'kunge isi mi'uni 'e oko ho eainca,",,,The frog spoke to the child.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_145,tsou_test_data,"'ia iko aka 'i'ima 'a mohcu, pk^aako 'a ma omza no, omza no a^iti micu toekam,",,,"Unexpectedly, you were looking for the,... We saw that it has escaped.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_146,tsou_test_data,"moso XX mongoi aa'mi isi eainca,",,,It had left our place.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_147,tsou_test_data,"eh mo,_ na'no nac'o ho ac'o anova c'o sia to pania. ko'ko mo pkaako mo angu nac'o.",,,"It was distressed, since you just put it in the bottle. Therefore it left.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_148,tsou_test_data,"eh c'o, o'te,_ bumemeala aʉt'ʉca anova c'o sia to pania.",,,(They) didn't raise it carefully; they just put it in the container.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_149,tsou_test_data,"'a la'u 'a la no,_ 'a la i, 'a la 'a la'u no yon to chumu ho yuhnguzu,_ manci anova c'o sia ta pania.",,,I usually swan in the water. Why was I put in a bottle?,tsou1248,Tsou,stan1293,English
+tsou_sent_test_150,tsou_test_data,"na'no sʉ'no 'e oko ho isi, na'no sʉ'no 'e oko ho isi, ho isi eainca ta fo'kunge isi cu,",,,"The boy was very angry, since the frog said such words to him.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_151,tsou_test_data,"ea 'o mo yon to chumu ci n'a oko no fo'kunge,/ tesi ^tokʉneni.",,,He took a small frog in the water and tossed it to the frog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_152,tsou_test_data,"mo angu,_ angu nac'o na to'tohʉngʉsi ho isi, 'iama micu mongoi na 'o lasi at osi la lahe,_ atvaeno ʉmʉmnʉa ta, oko ho av'u ci fo'kunge.",,,"The child was very distressed, because their favorite frog had left.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_153,tsou_test_data,"eh,_ mo c'o maica 'e 'e,_ os'o engha mi'o nana 'so emio._",,,This is my saying. I'm not sure whether it is correct.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_154,tsou_test_data,"ci oko mo ea,_ aʉt'ʉcʉ ta fo'kunge.",,,A child had a pet frog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_155,tsou_test_data,ihe isi teapha ta pania si fo'kunge.,,,He put the frog in the container.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_156,tsou_test_data,micu oengʉtʉ 'e oko no mamespingi ho 'e av'u.,,,The boy and the dog went to sleep.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_157,tsou_test_data,"'iama mo eu, eh yuyafo si fo'kunge ho mimio.",,,The frog (jumped) out (of the container) and went away.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_158,tsou_test_data,micu yʉc'ʉ 'e oko ho 'e av'u.,,,The boy and the dog got up.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_159,tsou_test_data,ana ihe teolʉi 'o fo'kunge.,,,(They) didn't see the frog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_160,tsou_test_data,"ihe cu aka 'i'ima, aoka 'e eikikingia.",,,(The boy) has looked for the frog everywhere.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_161,tsou_test_data,"micu, mo uh ta enca pethʉ'ta ho eoho eoho'a 'e fo'kunge.",,,(He) went by the window and called at the frog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_162,tsou_test_data,"o'a mo ahtu tmalʉ, mai maica mo, ou eh,_ ihe aka 'i'ima 'e fo'kunge micu supeohʉ si na si av'u.",,,They continuously looked for the frog. The dog fell (from the window).,tsou1248,Tsou,stan1293,English
+tsou_sent_test_163,tsou_test_data,smof'oyʉ si moso si m si 'o isi yoni ta fo'kunge.,,,(The container) where the frog had been kept broke.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_164,tsou_test_data,"isi cu ea ta oko no hahocngʉ ho. pahas pasaha si av'u ho,_",,,The boy carried the dog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_165,tsou_test_data,"i'vaho uh ta mo asuhcu covhi ho 'i'ima 'e,_ n na 'e fo'kunge.",,,They proceeded again to look for the frog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_166,tsou_test_data,"na 'e oko no hahocngʉ mo, mi'usnu ta ceoa ho, eoho'ʉ.",,,The boy called toward the ground.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_167,tsou_test_data,"mi'usnu ta,_ mo feongo ci ceoa ho. eoho'ʉʉ no fo'kunge i'e av'u.",,,He called the frog through the hole in the ground. And the dog,tsou1248,Tsou,stan1293,English
+tsou_sent_test_168,tsou_test_data,"mo mi'su mʉingʉcʉ ta evi ho, eoho'ʉ. at'inghi',_ i'e ihe,_ i'e isi (COUGH) p'o'usni ta oko ci feongo 'iama, zou emo no buhci.",,,"The child moved toward the hole in the ground, and it was a house of mouse.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_169,tsou_test_data,"na isi si soengʉcʉvi ta av'u. zou._ emo no ceoyu. isi isi taʉt'ova ta,_ na ita,_ av'u si,_ evi micu,",,,What the dog look up toward was a beehive. The dog shook the tree (with the beehive.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_170,tsou_test_data,ac'ohʉ si mo no ceoyʉ micu aemo'ʉ si inosi. na 'e oko.,,,The beehive partly separated (from the tree). (The bees) scattered.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_171,tsou_test_data,"mo capo ta evi ho,",,,The child climbed the tree.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_172,tsou_test_data,"mo m'o'usnu ta feongo ta evi ho,_",,,(The child) looked toward the hole in the tree.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_173,tsou_test_data,ivaha eoho'a 'o fo'kunge.,,,(He) called at the frog again.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_174,tsou_test_data,"'iama mo ea nooyo ci puku ho,",,,It was an owl's nest.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_175,tsou_test_data,"mo yamci ho mo ea ea,_ eoho'ʉ no, fo'kunge micu,_ smoyafo micu iachi <XyamX>ci 'e, oko no hahocngʉ.",,,"(He) got frightened, and called the frog. (The owl) came out. The boy got frightened.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_176,tsou_test_data,"na 'e av'u isi c'o n'a asʉngʉca,_ peobanga ta,_ na ita ceoyu ci ci isi,_ taup tapeoha.",,,(The beehive) shaken and falling down the ground chased the dog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_177,tsou_test_data,"na i'e, oko no hahocngʉ isi,_ peopa,/ peobanga ta na ita,_",,,(The owl) chased the boy.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_178,tsou_test_data,"puku. micu cocapo ho ta mo yuhcuyu ci,_ yuhcuyu ho,_",,,He climbed on a bulge.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_179,tsou_test_data,"mo mici to totoefʉngʉ ta puku ho isi aka,_ peobanga.",,,He wanted to hide from the owl which had kept chasing him.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_180,tsou_test_data,"micu aomane capo. isi cu eaeza,_ micu i'mi ta mo yuhcuyu ci,_ yuhcuyu ho,",,,The boy climbed on something bulging.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_181,tsou_test_data,"uh,_ ho eoho'a 'e, eoho'a eoho'ʉ no fo'kunge.",,,(He) kept on calling for the frog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_182,tsou_test_data,"'iama 'iama,_ 'iama zou 'ua 'e isi capa ci mo yuhcuyu. mo yamci 'e na i'e, 'ua mici isi cu hafa smo'unu maita'e ho, eh, hafa mo'usnu ta mo tʉ'nʉ.",,,The deer got frightened and carried him and ran toward the cliff.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_183,tsou_test_data,"misi cu,_ tapeoha 'e, oko ho,",,,The deer shook down the child.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_184,tsou_test_data,"micu,_ supeohʉ 'e oko ho i'e av'u, 'oc'ocic'o su' ta,_ mo eachumua.",,,"The boy and the dog fell, and happen to fell into the water.",tsou1248,Tsou,stan1293,English
+tsou_sent_test_185,tsou_test_data,"micu su' ta chumu. pan to ihe talʉi ci,_ mo mais'a fo'kunge isi cu,_",,,They fell into the water and they heard like the sound of a frog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_186,tsou_test_data,"potani ta oko,_ na 'e av'u ho eainca o'te ptaʉngʉ. mais'a pan os'o talʉi ci fo'kunge.",,,The boy told the dog not to be noisy. (The boy said): 'I seem to hear a frog (croaking).',tsou1248,Tsou,stan1293,English
+tsou_sent_test_187,tsou_test_data,"mo 'oc'ocic'o ea enca evi,",,,A tree happened to be there.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_188,tsou_test_data,"ihe cu eukukuyungva ta,_ na ita evi.",,,They looked for the frog around the tree.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_189,tsou_test_data,"'iama mo,_ eanoepohʉ,",,,(The boy suddenly realized that）it was together with (another frogs).,tsou1248,Tsou,stan1293,English
+tsou_sent_test_190,tsou_test_data,ihe cu teolʉi 'e fo'kunge.,,,They saw the frog.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_191,tsou_test_data,'iama mo eanoepohʉa.,,,(The frog) was together (with the other frogs).,tsou1248,Tsou,stan1293,English
+tsou_sent_test_192,tsou_test_data,"micu aomane micu maezo, ea uso ci 'o'oko no fo'kunge,",,,There were also small frogs that came.,tsou1248,Tsou,stan1293,English
+tsou_sent_test_193,tsou_test_data,"ataveisi isi cu enca ea 'e,_ osi anana'va aʉt'ʉca ci fo'kunge oho hafa maine'e.",,,"Afterwards, he took his pet frog home.",tsou1248,Tsou,stan1293,English
